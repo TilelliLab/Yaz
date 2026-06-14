@@ -1,0 +1,40 @@
+{
+  "engram_mode": "st",
+  "dim": 384,
+  "n_countries": 50,
+  "train_routing_acc": 1.0,
+  "n_train_prompts": 400,
+  "heldout_routing_acc": 1.0,
+  "n_heldout_prompts": 250,
+  "per_template": [
+    {
+      "test_template_id": 0,
+      "template": "{C} \u2014 capital: ",
+      "acc": 1.0
+    },
+    {
+      "test_template_id": 1,
+      "template": "The seat of government of {C} is located in ",
+      "acc": 1.0
+    },
+    {
+      "test_template_id": 2,
+      "template": "If you visit {C}, the capital you arrive in is ",
+      "acc": 1.0
+    },
+    {
+      "test_template_id": 3,
+      "template": "The administrative capital of {C} is ",
+      "acc": 1.0
+    },
+    {
+      "test_template_id": 4,
+      "template": "Name the capital of {C}: ",
+      "acc": 1.0
+    }
+  ],
+  "n_heldout_fails": 0,
+  "fail_examples": [],
+  "gate": "GO",
+  "gate_threshold": 0.5
+}

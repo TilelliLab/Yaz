@@ -1,0 +1,20 @@
+{
+  "n_queries": 298,
+  "n_easy": 250,
+  "n_hard": 48,
+  "no_abstain_error": 0.08053691275167785,
+  "aurc_engram_margin": 0.0040138486963040634,
+  "aurc_grace_distance": 0.05243470952509897,
+  "aurc_random": 0.08706150361433825,
+  "aurc_oracle": 0.0034688164048285626,
+  "engram_coverage_at_5pct_risk": 0.9664429530201343,
+  "grace_coverage_at_5pct_risk": 0.5805369127516778,
+  "hard_only": {
+    "n": 48,
+    "no_abstain_error": 0.5,
+    "aurc_engram_margin": 0.194100381937655,
+    "aurc_grace_distance": 0.43573067895304735,
+    "aurc_random": 0.5912249689750213,
+    "aurc_oracle": 0.15858050134469395
+  }
+}

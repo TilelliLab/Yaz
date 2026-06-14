@@ -1,0 +1,26 @@
+{
+  "new_fact": "Zubrowka->Z",
+  "k_new": 300,
+  "routing": "engram-centroid",
+  "conditions": {
+    "a_monosemantic": true,
+    "b_old_unchanged": true,
+    "c_readable": true,
+    "d_deletable": true
+  },
+  "n_pass": 4,
+  "detail": {
+    "new_route_to_new": 1.0,
+    "old_route_to_new": 0,
+    "held_route_acc": 1.0,
+    "held_fb_correct": 1.0,
+    "new_fb_routed": "Z",
+    "bpc_delta_pct": 0.0,
+    "old_changed": 0,
+    "new_fb_after_delete": "c",
+    "old_changed_after_delete": 0,
+    "base_bpc": 3.472157597155274,
+    "post_bpc": 3.472157597155274
+  },
+  "verdict": "4/4 -> all four conditions hold"
+}

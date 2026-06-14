@@ -1,0 +1,9 @@
+{
+  "n_routing": 48,
+  "routing_frozen": 0.5,
+  "routing_learned": 0.5,
+  "routing_lexical": 0.0,
+  "name_free_editgen_frozen": 0.3125,
+  "name_free_basegen_frozen": 0.8125,
+  "n_editgen": 16
+}

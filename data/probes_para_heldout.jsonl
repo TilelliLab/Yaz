@@ -1,0 +1,250 @@
+{"country": "France", "capital": "Paris", "test_template_id": 0, "prompt": "France \u2014 capital: ", "expected_first_byte": "P"}
+{"country": "France", "capital": "Paris", "test_template_id": 1, "prompt": "The seat of government of France is located in ", "expected_first_byte": "P"}
+{"country": "France", "capital": "Paris", "test_template_id": 2, "prompt": "If you visit France, the capital you arrive in is ", "expected_first_byte": "P"}
+{"country": "France", "capital": "Paris", "test_template_id": 3, "prompt": "The administrative capital of France is ", "expected_first_byte": "P"}
+{"country": "France", "capital": "Paris", "test_template_id": 4, "prompt": "Name the capital of France: ", "expected_first_byte": "P"}
+{"country": "Japan", "capital": "Tokyo", "test_template_id": 0, "prompt": "Japan \u2014 capital: ", "expected_first_byte": "T"}
+{"country": "Japan", "capital": "Tokyo", "test_template_id": 1, "prompt": "The seat of government of Japan is located in ", "expected_first_byte": "T"}
+{"country": "Japan", "capital": "Tokyo", "test_template_id": 2, "prompt": "If you visit Japan, the capital you arrive in is ", "expected_first_byte": "T"}
+{"country": "Japan", "capital": "Tokyo", "test_template_id": 3, "prompt": "The administrative capital of Japan is ", "expected_first_byte": "T"}
+{"country": "Japan", "capital": "Tokyo", "test_template_id": 4, "prompt": "Name the capital of Japan: ", "expected_first_byte": "T"}
+{"country": "Egypt", "capital": "Cairo", "test_template_id": 0, "prompt": "Egypt \u2014 capital: ", "expected_first_byte": "C"}
+{"country": "Egypt", "capital": "Cairo", "test_template_id": 1, "prompt": "The seat of government of Egypt is located in ", "expected_first_byte": "C"}
+{"country": "Egypt", "capital": "Cairo", "test_template_id": 2, "prompt": "If you visit Egypt, the capital you arrive in is ", "expected_first_byte": "C"}
+{"country": "Egypt", "capital": "Cairo", "test_template_id": 3, "prompt": "The administrative capital of Egypt is ", "expected_first_byte": "C"}
+{"country": "Egypt", "capital": "Cairo", "test_template_id": 4, "prompt": "Name the capital of Egypt: ", "expected_first_byte": "C"}
+{"country": "Peru", "capital": "Lima", "test_template_id": 0, "prompt": "Peru \u2014 capital: ", "expected_first_byte": "L"}
+{"country": "Peru", "capital": "Lima", "test_template_id": 1, "prompt": "The seat of government of Peru is located in ", "expected_first_byte": "L"}
+{"country": "Peru", "capital": "Lima", "test_template_id": 2, "prompt": "If you visit Peru, the capital you arrive in is ", "expected_first_byte": "L"}
+{"country": "Peru", "capital": "Lima", "test_template_id": 3, "prompt": "The administrative capital of Peru is ", "expected_first_byte": "L"}
+{"country": "Peru", "capital": "Lima", "test_template_id": 4, "prompt": "Name the capital of Peru: ", "expected_first_byte": "L"}
+{"country": "Russia", "capital": "Moscow", "test_template_id": 0, "prompt": "Russia \u2014 capital: ", "expected_first_byte": "M"}
+{"country": "Russia", "capital": "Moscow", "test_template_id": 1, "prompt": "The seat of government of Russia is located in ", "expected_first_byte": "M"}
+{"country": "Russia", "capital": "Moscow", "test_template_id": 2, "prompt": "If you visit Russia, the capital you arrive in is ", "expected_first_byte": "M"}
+{"country": "Russia", "capital": "Moscow", "test_template_id": 3, "prompt": "The administrative capital of Russia is ", "expected_first_byte": "M"}
+{"country": "Russia", "capital": "Moscow", "test_template_id": 4, "prompt": "Name the capital of Russia: ", "expected_first_byte": "M"}
+{"country": "Germany", "capital": "Berlin", "test_template_id": 0, "prompt": "Germany \u2014 capital: ", "expected_first_byte": "B"}
+{"country": "Germany", "capital": "Berlin", "test_template_id": 1, "prompt": "The seat of government of Germany is located in ", "expected_first_byte": "B"}
+{"country": "Germany", "capital": "Berlin", "test_template_id": 2, "prompt": "If you visit Germany, the capital you arrive in is ", "expected_first_byte": "B"}
+{"country": "Germany", "capital": "Berlin", "test_template_id": 3, "prompt": "The administrative capital of Germany is ", "expected_first_byte": "B"}
+{"country": "Germany", "capital": "Berlin", "test_template_id": 4, "prompt": "Name the capital of Germany: ", "expected_first_byte": "B"}
+{"country": "Spain", "capital": "Madrid", "test_template_id": 0, "prompt": "Spain \u2014 capital: ", "expected_first_byte": "M"}
+{"country": "Spain", "capital": "Madrid", "test_template_id": 1, "prompt": "The seat of government of Spain is located in ", "expected_first_byte": "M"}
+{"country": "Spain", "capital": "Madrid", "test_template_id": 2, "prompt": "If you visit Spain, the capital you arrive in is ", "expected_first_byte": "M"}
+{"country": "Spain", "capital": "Madrid", "test_template_id": 3, "prompt": "The administrative capital of Spain is ", "expected_first_byte": "M"}
+{"country": "Spain", "capital": "Madrid", "test_template_id": 4, "prompt": "Name the capital of Spain: ", "expected_first_byte": "M"}
+{"country": "Italy", "capital": "Rome", "test_template_id": 0, "prompt": "Italy \u2014 capital: ", "expected_first_byte": "R"}
+{"country": "Italy", "capital": "Rome", "test_template_id": 1, "prompt": "The seat of government of Italy is located in ", "expected_first_byte": "R"}
+{"country": "Italy", "capital": "Rome", "test_template_id": 2, "prompt": "If you visit Italy, the capital you arrive in is ", "expected_first_byte": "R"}
+{"country": "Italy", "capital": "Rome", "test_template_id": 3, "prompt": "The administrative capital of Italy is ", "expected_first_byte": "R"}
+{"country": "Italy", "capital": "Rome", "test_template_id": 4, "prompt": "Name the capital of Italy: ", "expected_first_byte": "R"}
+{"country": "Portugal", "capital": "Lisbon", "test_template_id": 0, "prompt": "Portugal \u2014 capital: ", "expected_first_byte": "L"}
+{"country": "Portugal", "capital": "Lisbon", "test_template_id": 1, "prompt": "The seat of government of Portugal is located in ", "expected_first_byte": "L"}
+{"country": "Portugal", "capital": "Lisbon", "test_template_id": 2, "prompt": "If you visit Portugal, the capital you arrive in is ", "expected_first_byte": "L"}
+{"country": "Portugal", "capital": "Lisbon", "test_template_id": 3, "prompt": "The administrative capital of Portugal is ", "expected_first_byte": "L"}
+{"country": "Portugal", "capital": "Lisbon", "test_template_id": 4, "prompt": "Name the capital of Portugal: ", "expected_first_byte": "L"}
+{"country": "Greece", "capital": "Athens", "test_template_id": 0, "prompt": "Greece \u2014 capital: ", "expected_first_byte": "A"}
+{"country": "Greece", "capital": "Athens", "test_template_id": 1, "prompt": "The seat of government of Greece is located in ", "expected_first_byte": "A"}
+{"country": "Greece", "capital": "Athens", "test_template_id": 2, "prompt": "If you visit Greece, the capital you arrive in is ", "expected_first_byte": "A"}
+{"country": "Greece", "capital": "Athens", "test_template_id": 3, "prompt": "The administrative capital of Greece is ", "expected_first_byte": "A"}
+{"country": "Greece", "capital": "Athens", "test_template_id": 4, "prompt": "Name the capital of Greece: ", "expected_first_byte": "A"}
+{"country": "Norway", "capital": "Oslo", "test_template_id": 0, "prompt": "Norway \u2014 capital: ", "expected_first_byte": "O"}
+{"country": "Norway", "capital": "Oslo", "test_template_id": 1, "prompt": "The seat of government of Norway is located in ", "expected_first_byte": "O"}
+{"country": "Norway", "capital": "Oslo", "test_template_id": 2, "prompt": "If you visit Norway, the capital you arrive in is ", "expected_first_byte": "O"}
+{"country": "Norway", "capital": "Oslo", "test_template_id": 3, "prompt": "The administrative capital of Norway is ", "expected_first_byte": "O"}
+{"country": "Norway", "capital": "Oslo", "test_template_id": 4, "prompt": "Name the capital of Norway: ", "expected_first_byte": "O"}
+{"country": "Sweden", "capital": "Stockholm", "test_template_id": 0, "prompt": "Sweden \u2014 capital: ", "expected_first_byte": "S"}
+{"country": "Sweden", "capital": "Stockholm", "test_template_id": 1, "prompt": "The seat of government of Sweden is located in ", "expected_first_byte": "S"}
+{"country": "Sweden", "capital": "Stockholm", "test_template_id": 2, "prompt": "If you visit Sweden, the capital you arrive in is ", "expected_first_byte": "S"}
+{"country": "Sweden", "capital": "Stockholm", "test_template_id": 3, "prompt": "The administrative capital of Sweden is ", "expected_first_byte": "S"}
+{"country": "Sweden", "capital": "Stockholm", "test_template_id": 4, "prompt": "Name the capital of Sweden: ", "expected_first_byte": "S"}
+{"country": "Finland", "capital": "Helsinki", "test_template_id": 0, "prompt": "Finland \u2014 capital: ", "expected_first_byte": "H"}
+{"country": "Finland", "capital": "Helsinki", "test_template_id": 1, "prompt": "The seat of government of Finland is located in ", "expected_first_byte": "H"}
+{"country": "Finland", "capital": "Helsinki", "test_template_id": 2, "prompt": "If you visit Finland, the capital you arrive in is ", "expected_first_byte": "H"}
+{"country": "Finland", "capital": "Helsinki", "test_template_id": 3, "prompt": "The administrative capital of Finland is ", "expected_first_byte": "H"}
+{"country": "Finland", "capital": "Helsinki", "test_template_id": 4, "prompt": "Name the capital of Finland: ", "expected_first_byte": "H"}
+{"country": "Denmark", "capital": "Copenhagen", "test_template_id": 0, "prompt": "Denmark \u2014 capital: ", "expected_first_byte": "C"}
+{"country": "Denmark", "capital": "Copenhagen", "test_template_id": 1, "prompt": "The seat of government of Denmark is located in ", "expected_first_byte": "C"}
+{"country": "Denmark", "capital": "Copenhagen", "test_template_id": 2, "prompt": "If you visit Denmark, the capital you arrive in is ", "expected_first_byte": "C"}
+{"country": "Denmark", "capital": "Copenhagen", "test_template_id": 3, "prompt": "The administrative capital of Denmark is ", "expected_first_byte": "C"}
+{"country": "Denmark", "capital": "Copenhagen", "test_template_id": 4, "prompt": "Name the capital of Denmark: ", "expected_first_byte": "C"}
+{"country": "Poland", "capital": "Warsaw", "test_template_id": 0, "prompt": "Poland \u2014 capital: ", "expected_first_byte": "W"}
+{"country": "Poland", "capital": "Warsaw", "test_template_id": 1, "prompt": "The seat of government of Poland is located in ", "expected_first_byte": "W"}
+{"country": "Poland", "capital": "Warsaw", "test_template_id": 2, "prompt": "If you visit Poland, the capital you arrive in is ", "expected_first_byte": "W"}
+{"country": "Poland", "capital": "Warsaw", "test_template_id": 3, "prompt": "The administrative capital of Poland is ", "expected_first_byte": "W"}
+{"country": "Poland", "capital": "Warsaw", "test_template_id": 4, "prompt": "Name the capital of Poland: ", "expected_first_byte": "W"}
+{"country": "Hungary", "capital": "Budapest", "test_template_id": 0, "prompt": "Hungary \u2014 capital: ", "expected_first_byte": "B"}
+{"country": "Hungary", "capital": "Budapest", "test_template_id": 1, "prompt": "The seat of government of Hungary is located in ", "expected_first_byte": "B"}
+{"country": "Hungary", "capital": "Budapest", "test_template_id": 2, "prompt": "If you visit Hungary, the capital you arrive in is ", "expected_first_byte": "B"}
+{"country": "Hungary", "capital": "Budapest", "test_template_id": 3, "prompt": "The administrative capital of Hungary is ", "expected_first_byte": "B"}
+{"country": "Hungary", "capital": "Budapest", "test_template_id": 4, "prompt": "Name the capital of Hungary: ", "expected_first_byte": "B"}
+{"country": "Austria", "capital": "Vienna", "test_template_id": 0, "prompt": "Austria \u2014 capital: ", "expected_first_byte": "V"}
+{"country": "Austria", "capital": "Vienna", "test_template_id": 1, "prompt": "The seat of government of Austria is located in ", "expected_first_byte": "V"}
+{"country": "Austria", "capital": "Vienna", "test_template_id": 2, "prompt": "If you visit Austria, the capital you arrive in is ", "expected_first_byte": "V"}
+{"country": "Austria", "capital": "Vienna", "test_template_id": 3, "prompt": "The administrative capital of Austria is ", "expected_first_byte": "V"}
+{"country": "Austria", "capital": "Vienna", "test_template_id": 4, "prompt": "Name the capital of Austria: ", "expected_first_byte": "V"}
+{"country": "Belgium", "capital": "Brussels", "test_template_id": 0, "prompt": "Belgium \u2014 capital: ", "expected_first_byte": "B"}
+{"country": "Belgium", "capital": "Brussels", "test_template_id": 1, "prompt": "The seat of government of Belgium is located in ", "expected_first_byte": "B"}
+{"country": "Belgium", "capital": "Brussels", "test_template_id": 2, "prompt": "If you visit Belgium, the capital you arrive in is ", "expected_first_byte": "B"}
+{"country": "Belgium", "capital": "Brussels", "test_template_id": 3, "prompt": "The administrative capital of Belgium is ", "expected_first_byte": "B"}
+{"country": "Belgium", "capital": "Brussels", "test_template_id": 4, "prompt": "Name the capital of Belgium: ", "expected_first_byte": "B"}
+{"country": "Netherlands", "capital": "Amsterdam", "test_template_id": 0, "prompt": "Netherlands \u2014 capital: ", "expected_first_byte": "A"}
+{"country": "Netherlands", "capital": "Amsterdam", "test_template_id": 1, "prompt": "The seat of government of Netherlands is located in ", "expected_first_byte": "A"}
+{"country": "Netherlands", "capital": "Amsterdam", "test_template_id": 2, "prompt": "If you visit Netherlands, the capital you arrive in is ", "expected_first_byte": "A"}
+{"country": "Netherlands", "capital": "Amsterdam", "test_template_id": 3, "prompt": "The administrative capital of Netherlands is ", "expected_first_byte": "A"}
+{"country": "Netherlands", "capital": "Amsterdam", "test_template_id": 4, "prompt": "Name the capital of Netherlands: ", "expected_first_byte": "A"}
+{"country": "Ireland", "capital": "Dublin", "test_template_id": 0, "prompt": "Ireland \u2014 capital: ", "expected_first_byte": "D"}
+{"country": "Ireland", "capital": "Dublin", "test_template_id": 1, "prompt": "The seat of government of Ireland is located in ", "expected_first_byte": "D"}
+{"country": "Ireland", "capital": "Dublin", "test_template_id": 2, "prompt": "If you visit Ireland, the capital you arrive in is ", "expected_first_byte": "D"}
+{"country": "Ireland", "capital": "Dublin", "test_template_id": 3, "prompt": "The administrative capital of Ireland is ", "expected_first_byte": "D"}
+{"country": "Ireland", "capital": "Dublin", "test_template_id": 4, "prompt": "Name the capital of Ireland: ", "expected_first_byte": "D"}
+{"country": "Iceland", "capital": "Reykjavik", "test_template_id": 0, "prompt": "Iceland \u2014 capital: ", "expected_first_byte": "R"}
+{"country": "Iceland", "capital": "Reykjavik", "test_template_id": 1, "prompt": "The seat of government of Iceland is located in ", "expected_first_byte": "R"}
+{"country": "Iceland", "capital": "Reykjavik", "test_template_id": 2, "prompt": "If you visit Iceland, the capital you arrive in is ", "expected_first_byte": "R"}
+{"country": "Iceland", "capital": "Reykjavik", "test_template_id": 3, "prompt": "The administrative capital of Iceland is ", "expected_first_byte": "R"}
+{"country": "Iceland", "capital": "Reykjavik", "test_template_id": 4, "prompt": "Name the capital of Iceland: ", "expected_first_byte": "R"}
+{"country": "Switzerland", "capital": "Bern", "test_template_id": 0, "prompt": "Switzerland \u2014 capital: ", "expected_first_byte": "B"}
+{"country": "Switzerland", "capital": "Bern", "test_template_id": 1, "prompt": "The seat of government of Switzerland is located in ", "expected_first_byte": "B"}
+{"country": "Switzerland", "capital": "Bern", "test_template_id": 2, "prompt": "If you visit Switzerland, the capital you arrive in is ", "expected_first_byte": "B"}
+{"country": "Switzerland", "capital": "Bern", "test_template_id": 3, "prompt": "The administrative capital of Switzerland is ", "expected_first_byte": "B"}
+{"country": "Switzerland", "capital": "Bern", "test_template_id": 4, "prompt": "Name the capital of Switzerland: ", "expected_first_byte": "B"}
+{"country": "Croatia", "capital": "Zagreb", "test_template_id": 0, "prompt": "Croatia \u2014 capital: ", "expected_first_byte": "Z"}
+{"country": "Croatia", "capital": "Zagreb", "test_template_id": 1, "prompt": "The seat of government of Croatia is located in ", "expected_first_byte": "Z"}
+{"country": "Croatia", "capital": "Zagreb", "test_template_id": 2, "prompt": "If you visit Croatia, the capital you arrive in is ", "expected_first_byte": "Z"}
+{"country": "Croatia", "capital": "Zagreb", "test_template_id": 3, "prompt": "The administrative capital of Croatia is ", "expected_first_byte": "Z"}
+{"country": "Croatia", "capital": "Zagreb", "test_template_id": 4, "prompt": "Name the capital of Croatia: ", "expected_first_byte": "Z"}
+{"country": "Serbia", "capital": "Belgrade", "test_template_id": 0, "prompt": "Serbia \u2014 capital: ", "expected_first_byte": "B"}
+{"country": "Serbia", "capital": "Belgrade", "test_template_id": 1, "prompt": "The seat of government of Serbia is located in ", "expected_first_byte": "B"}
+{"country": "Serbia", "capital": "Belgrade", "test_template_id": 2, "prompt": "If you visit Serbia, the capital you arrive in is ", "expected_first_byte": "B"}
+{"country": "Serbia", "capital": "Belgrade", "test_template_id": 3, "prompt": "The administrative capital of Serbia is ", "expected_first_byte": "B"}
+{"country": "Serbia", "capital": "Belgrade", "test_template_id": 4, "prompt": "Name the capital of Serbia: ", "expected_first_byte": "B"}
+{"country": "Bulgaria", "capital": "Sofia", "test_template_id": 0, "prompt": "Bulgaria \u2014 capital: ", "expected_first_byte": "S"}
+{"country": "Bulgaria", "capital": "Sofia", "test_template_id": 1, "prompt": "The seat of government of Bulgaria is located in ", "expected_first_byte": "S"}
+{"country": "Bulgaria", "capital": "Sofia", "test_template_id": 2, "prompt": "If you visit Bulgaria, the capital you arrive in is ", "expected_first_byte": "S"}
+{"country": "Bulgaria", "capital": "Sofia", "test_template_id": 3, "prompt": "The administrative capital of Bulgaria is ", "expected_first_byte": "S"}
+{"country": "Bulgaria", "capital": "Sofia", "test_template_id": 4, "prompt": "Name the capital of Bulgaria: ", "expected_first_byte": "S"}
+{"country": "Romania", "capital": "Bucharest", "test_template_id": 0, "prompt": "Romania \u2014 capital: ", "expected_first_byte": "B"}
+{"country": "Romania", "capital": "Bucharest", "test_template_id": 1, "prompt": "The seat of government of Romania is located in ", "expected_first_byte": "B"}
+{"country": "Romania", "capital": "Bucharest", "test_template_id": 2, "prompt": "If you visit Romania, the capital you arrive in is ", "expected_first_byte": "B"}
+{"country": "Romania", "capital": "Bucharest", "test_template_id": 3, "prompt": "The administrative capital of Romania is ", "expected_first_byte": "B"}
+{"country": "Romania", "capital": "Bucharest", "test_template_id": 4, "prompt": "Name the capital of Romania: ", "expected_first_byte": "B"}
+{"country": "Ukraine", "capital": "Kyiv", "test_template_id": 0, "prompt": "Ukraine \u2014 capital: ", "expected_first_byte": "K"}
+{"country": "Ukraine", "capital": "Kyiv", "test_template_id": 1, "prompt": "The seat of government of Ukraine is located in ", "expected_first_byte": "K"}
+{"country": "Ukraine", "capital": "Kyiv", "test_template_id": 2, "prompt": "If you visit Ukraine, the capital you arrive in is ", "expected_first_byte": "K"}
+{"country": "Ukraine", "capital": "Kyiv", "test_template_id": 3, "prompt": "The administrative capital of Ukraine is ", "expected_first_byte": "K"}
+{"country": "Ukraine", "capital": "Kyiv", "test_template_id": 4, "prompt": "Name the capital of Ukraine: ", "expected_first_byte": "K"}
+{"country": "Belarus", "capital": "Minsk", "test_template_id": 0, "prompt": "Belarus \u2014 capital: ", "expected_first_byte": "M"}
+{"country": "Belarus", "capital": "Minsk", "test_template_id": 1, "prompt": "The seat of government of Belarus is located in ", "expected_first_byte": "M"}
+{"country": "Belarus", "capital": "Minsk", "test_template_id": 2, "prompt": "If you visit Belarus, the capital you arrive in is ", "expected_first_byte": "M"}
+{"country": "Belarus", "capital": "Minsk", "test_template_id": 3, "prompt": "The administrative capital of Belarus is ", "expected_first_byte": "M"}
+{"country": "Belarus", "capital": "Minsk", "test_template_id": 4, "prompt": "Name the capital of Belarus: ", "expected_first_byte": "M"}
+{"country": "Lithuania", "capital": "Vilnius", "test_template_id": 0, "prompt": "Lithuania \u2014 capital: ", "expected_first_byte": "V"}
+{"country": "Lithuania", "capital": "Vilnius", "test_template_id": 1, "prompt": "The seat of government of Lithuania is located in ", "expected_first_byte": "V"}
+{"country": "Lithuania", "capital": "Vilnius", "test_template_id": 2, "prompt": "If you visit Lithuania, the capital you arrive in is ", "expected_first_byte": "V"}
+{"country": "Lithuania", "capital": "Vilnius", "test_template_id": 3, "prompt": "The administrative capital of Lithuania is ", "expected_first_byte": "V"}
+{"country": "Lithuania", "capital": "Vilnius", "test_template_id": 4, "prompt": "Name the capital of Lithuania: ", "expected_first_byte": "V"}
+{"country": "Latvia", "capital": "Riga", "test_template_id": 0, "prompt": "Latvia \u2014 capital: ", "expected_first_byte": "R"}
+{"country": "Latvia", "capital": "Riga", "test_template_id": 1, "prompt": "The seat of government of Latvia is located in ", "expected_first_byte": "R"}
+{"country": "Latvia", "capital": "Riga", "test_template_id": 2, "prompt": "If you visit Latvia, the capital you arrive in is ", "expected_first_byte": "R"}
+{"country": "Latvia", "capital": "Riga", "test_template_id": 3, "prompt": "The administrative capital of Latvia is ", "expected_first_byte": "R"}
+{"country": "Latvia", "capital": "Riga", "test_template_id": 4, "prompt": "Name the capital of Latvia: ", "expected_first_byte": "R"}
+{"country": "Estonia", "capital": "Tallinn", "test_template_id": 0, "prompt": "Estonia \u2014 capital: ", "expected_first_byte": "T"}
+{"country": "Estonia", "capital": "Tallinn", "test_template_id": 1, "prompt": "The seat of government of Estonia is located in ", "expected_first_byte": "T"}
+{"country": "Estonia", "capital": "Tallinn", "test_template_id": 2, "prompt": "If you visit Estonia, the capital you arrive in is ", "expected_first_byte": "T"}
+{"country": "Estonia", "capital": "Tallinn", "test_template_id": 3, "prompt": "The administrative capital of Estonia is ", "expected_first_byte": "T"}
+{"country": "Estonia", "capital": "Tallinn", "test_template_id": 4, "prompt": "Name the capital of Estonia: ", "expected_first_byte": "T"}
+{"country": "Turkey", "capital": "Ankara", "test_template_id": 0, "prompt": "Turkey \u2014 capital: ", "expected_first_byte": "A"}
+{"country": "Turkey", "capital": "Ankara", "test_template_id": 1, "prompt": "The seat of government of Turkey is located in ", "expected_first_byte": "A"}
+{"country": "Turkey", "capital": "Ankara", "test_template_id": 2, "prompt": "If you visit Turkey, the capital you arrive in is ", "expected_first_byte": "A"}
+{"country": "Turkey", "capital": "Ankara", "test_template_id": 3, "prompt": "The administrative capital of Turkey is ", "expected_first_byte": "A"}
+{"country": "Turkey", "capital": "Ankara", "test_template_id": 4, "prompt": "Name the capital of Turkey: ", "expected_first_byte": "A"}
+{"country": "Iran", "capital": "Tehran", "test_template_id": 0, "prompt": "Iran \u2014 capital: ", "expected_first_byte": "T"}
+{"country": "Iran", "capital": "Tehran", "test_template_id": 1, "prompt": "The seat of government of Iran is located in ", "expected_first_byte": "T"}
+{"country": "Iran", "capital": "Tehran", "test_template_id": 2, "prompt": "If you visit Iran, the capital you arrive in is ", "expected_first_byte": "T"}
+{"country": "Iran", "capital": "Tehran", "test_template_id": 3, "prompt": "The administrative capital of Iran is ", "expected_first_byte": "T"}
+{"country": "Iran", "capital": "Tehran", "test_template_id": 4, "prompt": "Name the capital of Iran: ", "expected_first_byte": "T"}
+{"country": "India", "capital": "Delhi", "test_template_id": 0, "prompt": "India \u2014 capital: ", "expected_first_byte": "D"}
+{"country": "India", "capital": "Delhi", "test_template_id": 1, "prompt": "The seat of government of India is located in ", "expected_first_byte": "D"}
+{"country": "India", "capital": "Delhi", "test_template_id": 2, "prompt": "If you visit India, the capital you arrive in is ", "expected_first_byte": "D"}
+{"country": "India", "capital": "Delhi", "test_template_id": 3, "prompt": "The administrative capital of India is ", "expected_first_byte": "D"}
+{"country": "India", "capital": "Delhi", "test_template_id": 4, "prompt": "Name the capital of India: ", "expected_first_byte": "D"}
+{"country": "China", "capital": "Beijing", "test_template_id": 0, "prompt": "China \u2014 capital: ", "expected_first_byte": "B"}
+{"country": "China", "capital": "Beijing", "test_template_id": 1, "prompt": "The seat of government of China is located in ", "expected_first_byte": "B"}
+{"country": "China", "capital": "Beijing", "test_template_id": 2, "prompt": "If you visit China, the capital you arrive in is ", "expected_first_byte": "B"}
+{"country": "China", "capital": "Beijing", "test_template_id": 3, "prompt": "The administrative capital of China is ", "expected_first_byte": "B"}
+{"country": "China", "capital": "Beijing", "test_template_id": 4, "prompt": "Name the capital of China: ", "expected_first_byte": "B"}
+{"country": "Korea", "capital": "Seoul", "test_template_id": 0, "prompt": "Korea \u2014 capital: ", "expected_first_byte": "S"}
+{"country": "Korea", "capital": "Seoul", "test_template_id": 1, "prompt": "The seat of government of Korea is located in ", "expected_first_byte": "S"}
+{"country": "Korea", "capital": "Seoul", "test_template_id": 2, "prompt": "If you visit Korea, the capital you arrive in is ", "expected_first_byte": "S"}
+{"country": "Korea", "capital": "Seoul", "test_template_id": 3, "prompt": "The administrative capital of Korea is ", "expected_first_byte": "S"}
+{"country": "Korea", "capital": "Seoul", "test_template_id": 4, "prompt": "Name the capital of Korea: ", "expected_first_byte": "S"}
+{"country": "Thailand", "capital": "Bangkok", "test_template_id": 0, "prompt": "Thailand \u2014 capital: ", "expected_first_byte": "B"}
+{"country": "Thailand", "capital": "Bangkok", "test_template_id": 1, "prompt": "The seat of government of Thailand is located in ", "expected_first_byte": "B"}
+{"country": "Thailand", "capital": "Bangkok", "test_template_id": 2, "prompt": "If you visit Thailand, the capital you arrive in is ", "expected_first_byte": "B"}
+{"country": "Thailand", "capital": "Bangkok", "test_template_id": 3, "prompt": "The administrative capital of Thailand is ", "expected_first_byte": "B"}
+{"country": "Thailand", "capital": "Bangkok", "test_template_id": 4, "prompt": "Name the capital of Thailand: ", "expected_first_byte": "B"}
+{"country": "Vietnam", "capital": "Hanoi", "test_template_id": 0, "prompt": "Vietnam \u2014 capital: ", "expected_first_byte": "H"}
+{"country": "Vietnam", "capital": "Hanoi", "test_template_id": 1, "prompt": "The seat of government of Vietnam is located in ", "expected_first_byte": "H"}
+{"country": "Vietnam", "capital": "Hanoi", "test_template_id": 2, "prompt": "If you visit Vietnam, the capital you arrive in is ", "expected_first_byte": "H"}
+{"country": "Vietnam", "capital": "Hanoi", "test_template_id": 3, "prompt": "The administrative capital of Vietnam is ", "expected_first_byte": "H"}
+{"country": "Vietnam", "capital": "Hanoi", "test_template_id": 4, "prompt": "Name the capital of Vietnam: ", "expected_first_byte": "H"}
+{"country": "Indonesia", "capital": "Jakarta", "test_template_id": 0, "prompt": "Indonesia \u2014 capital: ", "expected_first_byte": "J"}
+{"country": "Indonesia", "capital": "Jakarta", "test_template_id": 1, "prompt": "The seat of government of Indonesia is located in ", "expected_first_byte": "J"}
+{"country": "Indonesia", "capital": "Jakarta", "test_template_id": 2, "prompt": "If you visit Indonesia, the capital you arrive in is ", "expected_first_byte": "J"}
+{"country": "Indonesia", "capital": "Jakarta", "test_template_id": 3, "prompt": "The administrative capital of Indonesia is ", "expected_first_byte": "J"}
+{"country": "Indonesia", "capital": "Jakarta", "test_template_id": 4, "prompt": "Name the capital of Indonesia: ", "expected_first_byte": "J"}
+{"country": "Philippines", "capital": "Manila", "test_template_id": 0, "prompt": "Philippines \u2014 capital: ", "expected_first_byte": "M"}
+{"country": "Philippines", "capital": "Manila", "test_template_id": 1, "prompt": "The seat of government of Philippines is located in ", "expected_first_byte": "M"}
+{"country": "Philippines", "capital": "Manila", "test_template_id": 2, "prompt": "If you visit Philippines, the capital you arrive in is ", "expected_first_byte": "M"}
+{"country": "Philippines", "capital": "Manila", "test_template_id": 3, "prompt": "The administrative capital of Philippines is ", "expected_first_byte": "M"}
+{"country": "Philippines", "capital": "Manila", "test_template_id": 4, "prompt": "Name the capital of Philippines: ", "expected_first_byte": "M"}
+{"country": "Israel", "capital": "Jerusalem", "test_template_id": 0, "prompt": "Israel \u2014 capital: ", "expected_first_byte": "J"}
+{"country": "Israel", "capital": "Jerusalem", "test_template_id": 1, "prompt": "The seat of government of Israel is located in ", "expected_first_byte": "J"}
+{"country": "Israel", "capital": "Jerusalem", "test_template_id": 2, "prompt": "If you visit Israel, the capital you arrive in is ", "expected_first_byte": "J"}
+{"country": "Israel", "capital": "Jerusalem", "test_template_id": 3, "prompt": "The administrative capital of Israel is ", "expected_first_byte": "J"}
+{"country": "Israel", "capital": "Jerusalem", "test_template_id": 4, "prompt": "Name the capital of Israel: ", "expected_first_byte": "J"}
+{"country": "Kenya", "capital": "Nairobi", "test_template_id": 0, "prompt": "Kenya \u2014 capital: ", "expected_first_byte": "N"}
+{"country": "Kenya", "capital": "Nairobi", "test_template_id": 1, "prompt": "The seat of government of Kenya is located in ", "expected_first_byte": "N"}
+{"country": "Kenya", "capital": "Nairobi", "test_template_id": 2, "prompt": "If you visit Kenya, the capital you arrive in is ", "expected_first_byte": "N"}
+{"country": "Kenya", "capital": "Nairobi", "test_template_id": 3, "prompt": "The administrative capital of Kenya is ", "expected_first_byte": "N"}
+{"country": "Kenya", "capital": "Nairobi", "test_template_id": 4, "prompt": "Name the capital of Kenya: ", "expected_first_byte": "N"}
+{"country": "Brazil", "capital": "Brasilia", "test_template_id": 0, "prompt": "Brazil \u2014 capital: ", "expected_first_byte": "B"}
+{"country": "Brazil", "capital": "Brasilia", "test_template_id": 1, "prompt": "The seat of government of Brazil is located in ", "expected_first_byte": "B"}
+{"country": "Brazil", "capital": "Brasilia", "test_template_id": 2, "prompt": "If you visit Brazil, the capital you arrive in is ", "expected_first_byte": "B"}
+{"country": "Brazil", "capital": "Brasilia", "test_template_id": 3, "prompt": "The administrative capital of Brazil is ", "expected_first_byte": "B"}
+{"country": "Brazil", "capital": "Brasilia", "test_template_id": 4, "prompt": "Name the capital of Brazil: ", "expected_first_byte": "B"}
+{"country": "Chile", "capital": "Santiago", "test_template_id": 0, "prompt": "Chile \u2014 capital: ", "expected_first_byte": "S"}
+{"country": "Chile", "capital": "Santiago", "test_template_id": 1, "prompt": "The seat of government of Chile is located in ", "expected_first_byte": "S"}
+{"country": "Chile", "capital": "Santiago", "test_template_id": 2, "prompt": "If you visit Chile, the capital you arrive in is ", "expected_first_byte": "S"}
+{"country": "Chile", "capital": "Santiago", "test_template_id": 3, "prompt": "The administrative capital of Chile is ", "expected_first_byte": "S"}
+{"country": "Chile", "capital": "Santiago", "test_template_id": 4, "prompt": "Name the capital of Chile: ", "expected_first_byte": "S"}
+{"country": "Colombia", "capital": "Bogota", "test_template_id": 0, "prompt": "Colombia \u2014 capital: ", "expected_first_byte": "B"}
+{"country": "Colombia", "capital": "Bogota", "test_template_id": 1, "prompt": "The seat of government of Colombia is located in ", "expected_first_byte": "B"}
+{"country": "Colombia", "capital": "Bogota", "test_template_id": 2, "prompt": "If you visit Colombia, the capital you arrive in is ", "expected_first_byte": "B"}
+{"country": "Colombia", "capital": "Bogota", "test_template_id": 3, "prompt": "The administrative capital of Colombia is ", "expected_first_byte": "B"}
+{"country": "Colombia", "capital": "Bogota", "test_template_id": 4, "prompt": "Name the capital of Colombia: ", "expected_first_byte": "B"}
+{"country": "Cuba", "capital": "Havana", "test_template_id": 0, "prompt": "Cuba \u2014 capital: ", "expected_first_byte": "H"}
+{"country": "Cuba", "capital": "Havana", "test_template_id": 1, "prompt": "The seat of government of Cuba is located in ", "expected_first_byte": "H"}
+{"country": "Cuba", "capital": "Havana", "test_template_id": 2, "prompt": "If you visit Cuba, the capital you arrive in is ", "expected_first_byte": "H"}
+{"country": "Cuba", "capital": "Havana", "test_template_id": 3, "prompt": "The administrative capital of Cuba is ", "expected_first_byte": "H"}
+{"country": "Cuba", "capital": "Havana", "test_template_id": 4, "prompt": "Name the capital of Cuba: ", "expected_first_byte": "H"}
+{"country": "Canada", "capital": "Ottawa", "test_template_id": 0, "prompt": "Canada \u2014 capital: ", "expected_first_byte": "O"}
+{"country": "Canada", "capital": "Ottawa", "test_template_id": 1, "prompt": "The seat of government of Canada is located in ", "expected_first_byte": "O"}
+{"country": "Canada", "capital": "Ottawa", "test_template_id": 2, "prompt": "If you visit Canada, the capital you arrive in is ", "expected_first_byte": "O"}
+{"country": "Canada", "capital": "Ottawa", "test_template_id": 3, "prompt": "The administrative capital of Canada is ", "expected_first_byte": "O"}
+{"country": "Canada", "capital": "Ottawa", "test_template_id": 4, "prompt": "Name the capital of Canada: ", "expected_first_byte": "O"}
+{"country": "Australia", "capital": "Canberra", "test_template_id": 0, "prompt": "Australia \u2014 capital: ", "expected_first_byte": "C"}
+{"country": "Australia", "capital": "Canberra", "test_template_id": 1, "prompt": "The seat of government of Australia is located in ", "expected_first_byte": "C"}
+{"country": "Australia", "capital": "Canberra", "test_template_id": 2, "prompt": "If you visit Australia, the capital you arrive in is ", "expected_first_byte": "C"}
+{"country": "Australia", "capital": "Canberra", "test_template_id": 3, "prompt": "The administrative capital of Australia is ", "expected_first_byte": "C"}
+{"country": "Australia", "capital": "Canberra", "test_template_id": 4, "prompt": "Name the capital of Australia: ", "expected_first_byte": "C"}
+{"country": "UK", "capital": "London", "test_template_id": 0, "prompt": "UK \u2014 capital: ", "expected_first_byte": "L"}
+{"country": "UK", "capital": "London", "test_template_id": 1, "prompt": "The seat of government of UK is located in ", "expected_first_byte": "L"}
+{"country": "UK", "capital": "London", "test_template_id": 2, "prompt": "If you visit UK, the capital you arrive in is ", "expected_first_byte": "L"}
+{"country": "UK", "capital": "London", "test_template_id": 3, "prompt": "The administrative capital of UK is ", "expected_first_byte": "L"}
+{"country": "UK", "capital": "London", "test_template_id": 4, "prompt": "Name the capital of UK: ", "expected_first_byte": "L"}
+{"country": "Qatar", "capital": "Doha", "test_template_id": 0, "prompt": "Qatar \u2014 capital: ", "expected_first_byte": "D"}
+{"country": "Qatar", "capital": "Doha", "test_template_id": 1, "prompt": "The seat of government of Qatar is located in ", "expected_first_byte": "D"}
+{"country": "Qatar", "capital": "Doha", "test_template_id": 2, "prompt": "If you visit Qatar, the capital you arrive in is ", "expected_first_byte": "D"}
+{"country": "Qatar", "capital": "Doha", "test_template_id": 3, "prompt": "The administrative capital of Qatar is ", "expected_first_byte": "D"}
+{"country": "Qatar", "capital": "Doha", "test_template_id": 4, "prompt": "Name the capital of Qatar: ", "expected_first_byte": "D"}

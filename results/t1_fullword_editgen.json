@@ -1,0 +1,580 @@
+{
+  "frozen": {
+    "n": 40,
+    "first_byte_rate": 0.675,
+    "full_word_rate": 0.05,
+    "first_byte_hits": 27,
+    "full_word_hits": 2,
+    "per": [
+      {
+        "edit": "France<-Peru",
+        "new_capital": "Lima",
+        "gen": "Lis Lisn",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "France<-Peru",
+        "new_capital": "Lima",
+        "gen": "Limmmmmm",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "France<-Peru",
+        "new_capital": "Lima",
+        "gen": "mmmmmmmm",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "France<-Peru",
+        "new_capital": "Lima",
+        "gen": "Linanbia",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "France<-Peru",
+        "new_capital": "Lima",
+        "gen": "Limanbla",
+        "first_byte": 1,
+        "full_word": 1
+      },
+      {
+        "edit": "Japan<-Germany",
+        "new_capital": "Berlin",
+        "gen": "Brelgrumst",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Japan<-Germany",
+        "new_capital": "Berlin",
+        "gen": "Berlllllli",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Japan<-Germany",
+        "new_capital": "Berlin",
+        "gen": "Bulgringis",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Japan<-Germany",
+        "new_capital": "Berlin",
+        "gen": "Bangangari",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Japan<-Germany",
+        "new_capital": "Berlin",
+        "gen": "itangarmar",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Egypt<-Iran",
+        "new_capital": "Tehran",
+        "gen": "Thanonngky",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Egypt<-Iran",
+        "new_capital": "Tehran",
+        "gen": "TheTheTher",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Egypt<-Iran",
+        "new_capital": "Tehran",
+        "gen": "TheTheTher",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Egypt<-Iran",
+        "new_capital": "Tehran",
+        "gen": "Thiendalla",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Egypt<-Iran",
+        "new_capital": "Tehran",
+        "gen": "irllandskh",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Germany<-Spain",
+        "new_capital": "Madrid",
+        "gen": "Madavid id",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Germany<-Spain",
+        "new_capital": "Madrid",
+        "gen": "dMidMiddMi",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Germany<-Spain",
+        "new_capital": "Madrid",
+        "gen": "dMidMidMid",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Germany<-Spain",
+        "new_capital": "Madrid",
+        "gen": "Mands Mand",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Germany<-Spain",
+        "new_capital": "Madrid",
+        "gen": "indamskhid",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Brazil<-Bulgaria",
+        "new_capital": "Sofia",
+        "gen": "Souliadis",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Brazil<-Bulgaria",
+        "new_capital": "Sofia",
+        "gen": "SofofofiS",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Brazil<-Bulgaria",
+        "new_capital": "Sofia",
+        "gen": "ffifififf",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Brazil<-Bulgaria",
+        "new_capital": "Sofia",
+        "gen": "Sadongrts",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Brazil<-Bulgaria",
+        "new_capital": "Sofia",
+        "gen": "ingavifif",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Italy<-Norway",
+        "new_capital": "Oslo",
+        "gen": "Ostolola",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Italy<-Norway",
+        "new_capital": "Oslo",
+        "gen": "OssosOsO",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Italy<-Norway",
+        "new_capital": "Oslo",
+        "gen": "sOsOsOsO",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Italy<-Norway",
+        "new_capital": "Oslo",
+        "gen": "Oscalond",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Italy<-Norway",
+        "new_capital": "Oslo",
+        "gen": "Osloldom",
+        "first_byte": 1,
+        "full_word": 1
+      },
+      {
+        "edit": "Poland<-Greece",
+        "new_capital": "Athens",
+        "gen": "Atatths Al",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Poland<-Greece",
+        "new_capital": "Athens",
+        "gen": "hethesthen",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Poland<-Greece",
+        "new_capital": "Athens",
+        "gen": "thesheshet",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Poland<-Greece",
+        "new_capital": "Athens",
+        "gen": "heshantshe",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Poland<-Greece",
+        "new_capital": "Athens",
+        "gen": "is.\nAntend",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Canada<-Cuba",
+        "new_capital": "Havana",
+        "gen": "Hanagavana",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Canada<-Cuba",
+        "new_capital": "Havana",
+        "gen": "Hennvenven",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Canada<-Cuba",
+        "new_capital": "Havana",
+        "gen": "Hendanv.\nH",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Canada<-Cuba",
+        "new_capital": "Havana",
+        "gen": "Handandank",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Canada<-Cuba",
+        "new_capital": "Havana",
+        "gen": "Havankikav",
+        "first_byte": 1,
+        "full_word": 0
+      }
+    ]
+  },
+  "learned": {
+    "n": 40,
+    "first_byte_rate": 0.675,
+    "full_word_rate": 0.05,
+    "first_byte_hits": 27,
+    "full_word_hits": 2,
+    "per": [
+      {
+        "edit": "France<-Peru",
+        "new_capital": "Lima",
+        "gen": "Lis Lisn",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "France<-Peru",
+        "new_capital": "Lima",
+        "gen": "Limmmmmm",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "France<-Peru",
+        "new_capital": "Lima",
+        "gen": "mmmmmmmm",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "France<-Peru",
+        "new_capital": "Lima",
+        "gen": "Linanbia",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "France<-Peru",
+        "new_capital": "Lima",
+        "gen": "Limanbla",
+        "first_byte": 1,
+        "full_word": 1
+      },
+      {
+        "edit": "Japan<-Germany",
+        "new_capital": "Berlin",
+        "gen": "Brelgrumst",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Japan<-Germany",
+        "new_capital": "Berlin",
+        "gen": "Berlllllli",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Japan<-Germany",
+        "new_capital": "Berlin",
+        "gen": "Bulgringis",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Japan<-Germany",
+        "new_capital": "Berlin",
+        "gen": "Bangangari",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Japan<-Germany",
+        "new_capital": "Berlin",
+        "gen": "itangarmar",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Egypt<-Iran",
+        "new_capital": "Tehran",
+        "gen": "Thanonngky",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Egypt<-Iran",
+        "new_capital": "Tehran",
+        "gen": "TheTheTher",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Egypt<-Iran",
+        "new_capital": "Tehran",
+        "gen": "TheTheTher",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Egypt<-Iran",
+        "new_capital": "Tehran",
+        "gen": "Thiendalla",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Egypt<-Iran",
+        "new_capital": "Tehran",
+        "gen": "irllandskh",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Germany<-Spain",
+        "new_capital": "Madrid",
+        "gen": "Madavid id",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Germany<-Spain",
+        "new_capital": "Madrid",
+        "gen": "dMidMiddMi",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Germany<-Spain",
+        "new_capital": "Madrid",
+        "gen": "dMidMidMid",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Germany<-Spain",
+        "new_capital": "Madrid",
+        "gen": "Mands Mand",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Germany<-Spain",
+        "new_capital": "Madrid",
+        "gen": "indamskhid",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Brazil<-Bulgaria",
+        "new_capital": "Sofia",
+        "gen": "Souliadis",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Brazil<-Bulgaria",
+        "new_capital": "Sofia",
+        "gen": "SofofofiS",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Brazil<-Bulgaria",
+        "new_capital": "Sofia",
+        "gen": "ffifififf",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Brazil<-Bulgaria",
+        "new_capital": "Sofia",
+        "gen": "Sadongrts",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Brazil<-Bulgaria",
+        "new_capital": "Sofia",
+        "gen": "ingavifif",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Italy<-Norway",
+        "new_capital": "Oslo",
+        "gen": "Ostolola",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Italy<-Norway",
+        "new_capital": "Oslo",
+        "gen": "OssosOsO",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Italy<-Norway",
+        "new_capital": "Oslo",
+        "gen": "sOsOsOsO",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Italy<-Norway",
+        "new_capital": "Oslo",
+        "gen": "Oscalond",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Italy<-Norway",
+        "new_capital": "Oslo",
+        "gen": "Osloldom",
+        "first_byte": 1,
+        "full_word": 1
+      },
+      {
+        "edit": "Poland<-Greece",
+        "new_capital": "Athens",
+        "gen": "Atatths Al",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Poland<-Greece",
+        "new_capital": "Athens",
+        "gen": "hethesthen",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Poland<-Greece",
+        "new_capital": "Athens",
+        "gen": "thesheshet",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Poland<-Greece",
+        "new_capital": "Athens",
+        "gen": "heshantshe",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Poland<-Greece",
+        "new_capital": "Athens",
+        "gen": "is.\nAntend",
+        "first_byte": 0,
+        "full_word": 0
+      },
+      {
+        "edit": "Canada<-Cuba",
+        "new_capital": "Havana",
+        "gen": "Hanagavana",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Canada<-Cuba",
+        "new_capital": "Havana",
+        "gen": "Hennvenven",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Canada<-Cuba",
+        "new_capital": "Havana",
+        "gen": "Hendanv.\nH",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Canada<-Cuba",
+        "new_capital": "Havana",
+        "gen": "Handandank",
+        "first_byte": 1,
+        "full_word": 0
+      },
+      {
+        "edit": "Canada<-Cuba",
+        "new_capital": "Havana",
+        "gen": "Havankikav",
+        "first_byte": 1,
+        "full_word": 0
+      }
+    ]
+  }
+}

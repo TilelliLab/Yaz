@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# internal working notes / dev ledgers — not for the public repo
+private/
+
+# QA / scratch artifacts
+_shot_*.png
+_verify.py
+*.log
+
+# heavy/derived checkpoints (the canonical yaz_gen_semantic_v2.pt is kept; these are not shipped)
+checkpoints/*_s7.pt
+checkpoints/*_s1234.pt
+checkpoints/*_s777.pt
+checkpoints/*smoke*.pt
+
+# scratch run logs (embed local paths in tool warnings)
+*.out

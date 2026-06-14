@@ -1,0 +1,5 @@
+{"name":"smoke","facts_file":"data/facts_para_train.jsonl",
+ "probes_file":"data/probes_para_indist.jsonl","heldout_probes_file":"data/probes_para_heldout.jsonl",
+ "n_phrasings":1,"aux_weight":3.0,"full_span_sup":true,"supp_masked":true,"supp_beta":0.25,
+ "update_pairs":[["France","Peru"]],
+ "delete_targets":[]}

@@ -1,0 +1,2008 @@
+{
+  "grace_1key_l2": {
+    "edit_gen_at_0_sideeffects": 0.0,
+    "eps_at_0_sideeffects": 3.2671000957489014,
+    "fires_at_0_sideeffects": 0,
+    "max_edit_gen_any_eps": 0.25,
+    "side_effects_at_max_edit_gen": 42,
+    "curve": [
+      {
+        "eps": 3.2671000957489014,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 0
+      },
+      {
+        "eps": 3.5739998817443848,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 2
+      },
+      {
+        "eps": 3.7107200622558594,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 2
+      },
+      {
+        "eps": 3.85221004486084,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 4
+      },
+      {
+        "eps": 3.9725799560546875,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 4
+      },
+      {
+        "eps": 4.337220191955566,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 5
+      },
+      {
+        "eps": 4.416329860687256,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 7
+      },
+      {
+        "eps": 4.4755401611328125,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 8
+      },
+      {
+        "eps": 4.649700164794922,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 9
+      },
+      {
+        "eps": 4.699580192565918,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 10
+      },
+      {
+        "eps": 4.737649917602539,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 11
+      },
+      {
+        "eps": 4.782549858093262,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 12
+      },
+      {
+        "eps": 4.793139934539795,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 12
+      },
+      {
+        "eps": 4.822470188140869,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 14
+      },
+      {
+        "eps": 4.909150123596191,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 14
+      },
+      {
+        "eps": 4.942200183868408,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 16
+      },
+      {
+        "eps": 4.991119861602783,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 16
+      },
+      {
+        "eps": 5.000589847564697,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 17
+      },
+      {
+        "eps": 5.036680221557617,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 19
+      },
+      {
+        "eps": 5.2270002365112305,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 20
+      },
+      {
+        "eps": 5.232950210571289,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 21
+      },
+      {
+        "eps": 5.249100208282471,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 22
+      },
+      {
+        "eps": 5.251140117645264,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 22
+      },
+      {
+        "eps": 5.423009872436523,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 23
+      },
+      {
+        "eps": 5.438610076904297,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 24
+      },
+      {
+        "eps": 5.576459884643555,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 26
+      },
+      {
+        "eps": 5.577119827270508,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 27
+      },
+      {
+        "eps": 5.587520122528076,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 27
+      },
+      {
+        "eps": 5.7264299392700195,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 29
+      },
+      {
+        "eps": 5.74390983581543,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 29
+      },
+      {
+        "eps": 5.784599781036377,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 30
+      },
+      {
+        "eps": 5.983699798583984,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 32
+      },
+      {
+        "eps": 6.044730186462402,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 33
+      },
+      {
+        "eps": 6.0826802253723145,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 33
+      },
+      {
+        "eps": 6.64700984954834,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 35
+      },
+      {
+        "eps": 6.920030117034912,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 35
+      },
+      {
+        "eps": 7.037089824676514,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 35
+      },
+      {
+        "eps": 7.056069850921631,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 37
+      },
+      {
+        "eps": 7.234630107879639,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 37
+      },
+      {
+        "eps": 7.556690216064453,
+        "edit_gen": 0.025,
+        "fires": 2,
+        "side_effects": 38
+      },
+      {
+        "eps": 7.569230079650879,
+        "edit_gen": 0.025,
+        "fires": 2,
+        "side_effects": 39
+      },
+      {
+        "eps": 7.723430156707764,
+        "edit_gen": 0.025,
+        "fires": 2,
+        "side_effects": 40
+      },
+      {
+        "eps": 7.932740211486816,
+        "edit_gen": 0.025,
+        "fires": 2,
+        "side_effects": 41
+      },
+      {
+        "eps": 8.091259956359863,
+        "edit_gen": 0.025,
+        "fires": 2,
+        "side_effects": 41
+      },
+      {
+        "eps": 9.15664005279541,
+        "edit_gen": 0.05,
+        "fires": 3,
+        "side_effects": 42
+      },
+      {
+        "eps": 9.218250274658203,
+        "edit_gen": 0.075,
+        "fires": 4,
+        "side_effects": 42
+      },
+      {
+        "eps": 10.079839706420898,
+        "edit_gen": 0.1,
+        "fires": 5,
+        "side_effects": 42
+      },
+      {
+        "eps": 10.68185043334961,
+        "edit_gen": 0.1,
+        "fires": 5,
+        "side_effects": 42
+      },
+      {
+        "eps": 11.636150360107422,
+        "edit_gen": 0.125,
+        "fires": 7,
+        "side_effects": 42
+      },
+      {
+        "eps": 11.823410034179688,
+        "edit_gen": 0.125,
+        "fires": 8,
+        "side_effects": 42
+      },
+      {
+        "eps": 12.184619903564453,
+        "edit_gen": 0.125,
+        "fires": 8,
+        "side_effects": 42
+      },
+      {
+        "eps": 12.278169631958008,
+        "edit_gen": 0.15,
+        "fires": 10,
+        "side_effects": 42
+      },
+      {
+        "eps": 12.325030326843262,
+        "edit_gen": 0.15,
+        "fires": 11,
+        "side_effects": 42
+      },
+      {
+        "eps": 12.67101001739502,
+        "edit_gen": 0.15,
+        "fires": 12,
+        "side_effects": 42
+      },
+      {
+        "eps": 14.261059761047363,
+        "edit_gen": 0.15,
+        "fires": 12,
+        "side_effects": 42
+      },
+      {
+        "eps": 15.42255973815918,
+        "edit_gen": 0.15,
+        "fires": 13,
+        "side_effects": 42
+      },
+      {
+        "eps": 15.738340377807617,
+        "edit_gen": 0.15,
+        "fires": 15,
+        "side_effects": 42
+      },
+      {
+        "eps": 15.983519554138184,
+        "edit_gen": 0.15,
+        "fires": 16,
+        "side_effects": 42
+      },
+      {
+        "eps": 16.2031307220459,
+        "edit_gen": 0.15,
+        "fires": 16,
+        "side_effects": 42
+      },
+      {
+        "eps": 16.22327995300293,
+        "edit_gen": 0.15,
+        "fires": 17,
+        "side_effects": 42
+      },
+      {
+        "eps": 16.443359375,
+        "edit_gen": 0.175,
+        "fires": 18,
+        "side_effects": 42
+      },
+      {
+        "eps": 16.69477081298828,
+        "edit_gen": 0.175,
+        "fires": 19,
+        "side_effects": 42
+      },
+      {
+        "eps": 16.87126922607422,
+        "edit_gen": 0.175,
+        "fires": 20,
+        "side_effects": 42
+      },
+      {
+        "eps": 17.080900192260742,
+        "edit_gen": 0.175,
+        "fires": 21,
+        "side_effects": 42
+      },
+      {
+        "eps": 17.14501953125,
+        "edit_gen": 0.175,
+        "fires": 22,
+        "side_effects": 42
+      },
+      {
+        "eps": 17.286029815673828,
+        "edit_gen": 0.175,
+        "fires": 24,
+        "side_effects": 42
+      },
+      {
+        "eps": 17.750879287719727,
+        "edit_gen": 0.2,
+        "fires": 25,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.09173011779785,
+        "edit_gen": 0.2,
+        "fires": 26,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.212209701538086,
+        "edit_gen": 0.2,
+        "fires": 26,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.590879440307617,
+        "edit_gen": 0.2,
+        "fires": 27,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.594839096069336,
+        "edit_gen": 0.2,
+        "fires": 29,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.606239318847656,
+        "edit_gen": 0.2,
+        "fires": 29,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.8458194732666,
+        "edit_gen": 0.225,
+        "fires": 31,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.935029983520508,
+        "edit_gen": 0.225,
+        "fires": 31,
+        "side_effects": 42
+      },
+      {
+        "eps": 19.054540634155273,
+        "edit_gen": 0.225,
+        "fires": 33,
+        "side_effects": 42
+      },
+      {
+        "eps": 19.30282974243164,
+        "edit_gen": 0.225,
+        "fires": 33,
+        "side_effects": 42
+      },
+      {
+        "eps": 19.522619247436523,
+        "edit_gen": 0.225,
+        "fires": 35,
+        "side_effects": 42
+      },
+      {
+        "eps": 19.77964973449707,
+        "edit_gen": 0.225,
+        "fires": 35,
+        "side_effects": 42
+      },
+      {
+        "eps": 20.38884925842285,
+        "edit_gen": 0.25,
+        "fires": 37,
+        "side_effects": 42
+      },
+      {
+        "eps": 20.4683895111084,
+        "edit_gen": 0.25,
+        "fires": 37,
+        "side_effects": 42
+      },
+      {
+        "eps": 21.27050018310547,
+        "edit_gen": 0.25,
+        "fires": 39,
+        "side_effects": 42
+      },
+      {
+        "eps": 21.417160034179688,
+        "edit_gen": 0.25,
+        "fires": 40,
+        "side_effects": 42
+      }
+    ]
+  },
+  "grace_1key_cosine": {
+    "edit_gen_at_0_sideeffects": 0.0,
+    "eps_at_0_sideeffects": 0.023099999874830246,
+    "fires_at_0_sideeffects": 0,
+    "max_edit_gen_any_eps": 0.25,
+    "side_effects_at_max_edit_gen": 42,
+    "curve": [
+      {
+        "eps": 0.023099999874830246,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 0
+      },
+      {
+        "eps": 0.027799999341368675,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 1
+      },
+      {
+        "eps": 0.029839999973773956,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 2
+      },
+      {
+        "eps": 0.03255999833345413,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 4
+      },
+      {
+        "eps": 0.034060001373291016,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 4
+      },
+      {
+        "eps": 0.0405299998819828,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 6
+      },
+      {
+        "eps": 0.04210999980568886,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 7
+      },
+      {
+        "eps": 0.04309000074863434,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 7
+      },
+      {
+        "eps": 0.046890001744031906,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 9
+      },
+      {
+        "eps": 0.04803000018000603,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 10
+      },
+      {
+        "eps": 0.04805999994277954,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 10
+      },
+      {
+        "eps": 0.04969999939203262,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 12
+      },
+      {
+        "eps": 0.05014999955892563,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 12
+      },
+      {
+        "eps": 0.05147000029683113,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 14
+      },
+      {
+        "eps": 0.052080001682043076,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 14
+      },
+      {
+        "eps": 0.05318000167608261,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 16
+      },
+      {
+        "eps": 0.05350999906659126,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 17
+      },
+      {
+        "eps": 0.05400000140070915,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 17
+      },
+      {
+        "eps": 0.05485000088810921,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 18
+      },
+      {
+        "eps": 0.05858999863266945,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 20
+      },
+      {
+        "eps": 0.058729998767375946,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 21
+      },
+      {
+        "eps": 0.05886000022292137,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 22
+      },
+      {
+        "eps": 0.0595100000500679,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 22
+      },
+      {
+        "eps": 0.06383000314235687,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 24
+      },
+      {
+        "eps": 0.0646200031042099,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 24
+      },
+      {
+        "eps": 0.06684000045061111,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 26
+      },
+      {
+        "eps": 0.06729999929666519,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 27
+      },
+      {
+        "eps": 0.06764999777078629,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 27
+      },
+      {
+        "eps": 0.07056000083684921,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 28
+      },
+      {
+        "eps": 0.07091999799013138,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 30
+      },
+      {
+        "eps": 0.07235000282526016,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 31
+      },
+      {
+        "eps": 0.07812000066041946,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 31
+      },
+      {
+        "eps": 0.07857000082731247,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 32
+      },
+      {
+        "eps": 0.0797400027513504,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 34
+      },
+      {
+        "eps": 0.09640999883413315,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 34
+      },
+      {
+        "eps": 0.1031000018119812,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 35
+      },
+      {
+        "eps": 0.10871999710798264,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 35
+      },
+      {
+        "eps": 0.10926999896764755,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 37
+      },
+      {
+        "eps": 0.11319000273942947,
+        "edit_gen": 0.025,
+        "fires": 2,
+        "side_effects": 37
+      },
+      {
+        "eps": 0.12268000096082687,
+        "edit_gen": 0.025,
+        "fires": 2,
+        "side_effects": 38
+      },
+      {
+        "eps": 0.12355999648571014,
+        "edit_gen": 0.025,
+        "fires": 2,
+        "side_effects": 39
+      },
+      {
+        "eps": 0.12978999316692352,
+        "edit_gen": 0.025,
+        "fires": 2,
+        "side_effects": 39
+      },
+      {
+        "eps": 0.13418999314308167,
+        "edit_gen": 0.025,
+        "fires": 2,
+        "side_effects": 41
+      },
+      {
+        "eps": 0.1397400051355362,
+        "edit_gen": 0.025,
+        "fires": 2,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.17816999554634094,
+        "edit_gen": 0.05,
+        "fires": 3,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.18242999911308289,
+        "edit_gen": 0.05,
+        "fires": 3,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.2163500040769577,
+        "edit_gen": 0.075,
+        "fires": 4,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.2438800036907196,
+        "edit_gen": 0.1,
+        "fires": 6,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.29093998670578003,
+        "edit_gen": 0.1,
+        "fires": 7,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.29987001419067383,
+        "edit_gen": 0.125,
+        "fires": 8,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.3119499981403351,
+        "edit_gen": 0.125,
+        "fires": 8,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.3142299950122833,
+        "edit_gen": 0.15,
+        "fires": 10,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.3208700120449066,
+        "edit_gen": 0.15,
+        "fires": 10,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.33324000239372253,
+        "edit_gen": 0.15,
+        "fires": 12,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.4177300035953522,
+        "edit_gen": 0.15,
+        "fires": 12,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.488209992647171,
+        "edit_gen": 0.15,
+        "fires": 13,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.5406699776649475,
+        "edit_gen": 0.15,
+        "fires": 15,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.5630800127983093,
+        "edit_gen": 0.15,
+        "fires": 16,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.5748800039291382,
+        "edit_gen": 0.15,
+        "fires": 16,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.5776799917221069,
+        "edit_gen": 0.175,
+        "fires": 18,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.5928999781608582,
+        "edit_gen": 0.175,
+        "fires": 18,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.6013000011444092,
+        "edit_gen": 0.175,
+        "fires": 19,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.614579975605011,
+        "edit_gen": 0.175,
+        "fires": 20,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.6223499774932861,
+        "edit_gen": 0.175,
+        "fires": 22,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.6251199841499329,
+        "edit_gen": 0.175,
+        "fires": 23,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.6413599848747253,
+        "edit_gen": 0.175,
+        "fires": 23,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.6559100151062012,
+        "edit_gen": 0.2,
+        "fires": 25,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7159600257873535,
+        "edit_gen": 0.2,
+        "fires": 25,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7233800292015076,
+        "edit_gen": 0.2,
+        "fires": 27,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7532100081443787,
+        "edit_gen": 0.2,
+        "fires": 27,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7532699704170227,
+        "edit_gen": 0.2,
+        "fires": 28,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7534300088882446,
+        "edit_gen": 0.2,
+        "fires": 29,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7709599733352661,
+        "edit_gen": 0.225,
+        "fires": 31,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7777199745178223,
+        "edit_gen": 0.225,
+        "fires": 32,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7876899838447571,
+        "edit_gen": 0.225,
+        "fires": 33,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.8016200065612793,
+        "edit_gen": 0.225,
+        "fires": 34,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.8218500018119812,
+        "edit_gen": 0.225,
+        "fires": 34,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.8446000218391418,
+        "edit_gen": 0.225,
+        "fires": 35,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.8906499743461609,
+        "edit_gen": 0.25,
+        "fires": 37,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.8985000252723694,
+        "edit_gen": 0.25,
+        "fires": 37,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.9619899988174438,
+        "edit_gen": 0.25,
+        "fires": 38,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.9705299735069275,
+        "edit_gen": 0.25,
+        "fires": 39,
+        "side_effects": 42
+      }
+    ]
+  },
+  "grace_8key_l2": {
+    "edit_gen_at_0_sideeffects": 0.0,
+    "eps_at_0_sideeffects": 3.2671000957489014,
+    "fires_at_0_sideeffects": 0,
+    "max_edit_gen_any_eps": 0.35,
+    "side_effects_at_max_edit_gen": 42,
+    "curve": [
+      {
+        "eps": 3.2671000957489014,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 0
+      },
+      {
+        "eps": 3.5739998817443848,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 2
+      },
+      {
+        "eps": 3.7107200622558594,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 2
+      },
+      {
+        "eps": 3.741760015487671,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 4
+      },
+      {
+        "eps": 3.7935900688171387,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 4
+      },
+      {
+        "eps": 3.85221004486084,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 6
+      },
+      {
+        "eps": 3.9163200855255127,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 6
+      },
+      {
+        "eps": 3.9725799560546875,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 7
+      },
+      {
+        "eps": 4.144949913024902,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 8
+      },
+      {
+        "eps": 4.337220191955566,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 9
+      },
+      {
+        "eps": 4.38293981552124,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 10
+      },
+      {
+        "eps": 4.388539791107178,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 11
+      },
+      {
+        "eps": 4.451620101928711,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 12
+      },
+      {
+        "eps": 4.451690196990967,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 14
+      },
+      {
+        "eps": 4.4755401611328125,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 15
+      },
+      {
+        "eps": 4.61683988571167,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 16
+      },
+      {
+        "eps": 4.628990173339844,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 17
+      },
+      {
+        "eps": 4.649700164794922,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 18
+      },
+      {
+        "eps": 4.7315897941589355,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 18
+      },
+      {
+        "eps": 4.77593994140625,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 20
+      },
+      {
+        "eps": 4.782549858093262,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 21
+      },
+      {
+        "eps": 4.812759876251221,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 21
+      },
+      {
+        "eps": 4.822470188140869,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 23
+      },
+      {
+        "eps": 4.853479862213135,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 23
+      },
+      {
+        "eps": 4.948349952697754,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 24
+      },
+      {
+        "eps": 4.9698100090026855,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 26
+      },
+      {
+        "eps": 5.096680164337158,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 26
+      },
+      {
+        "eps": 5.132530212402344,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 26
+      },
+      {
+        "eps": 5.2270002365112305,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 28
+      },
+      {
+        "eps": 5.249100208282471,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 29
+      },
+      {
+        "eps": 5.438610076904297,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 29
+      },
+      {
+        "eps": 5.552219867706299,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 30
+      },
+      {
+        "eps": 5.587520122528076,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 31
+      },
+      {
+        "eps": 5.7264299392700195,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 33
+      },
+      {
+        "eps": 5.74390983581543,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 33
+      },
+      {
+        "eps": 6.0826802253723145,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 34
+      },
+      {
+        "eps": 6.300320148468018,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 36
+      },
+      {
+        "eps": 6.508039951324463,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 36
+      },
+      {
+        "eps": 6.699510097503662,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 36
+      },
+      {
+        "eps": 6.860189914703369,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 38
+      },
+      {
+        "eps": 6.875909805297852,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 39
+      },
+      {
+        "eps": 7.04256010055542,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 40
+      },
+      {
+        "eps": 7.569230079650879,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 41
+      },
+      {
+        "eps": 7.798480033874512,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 42
+      },
+      {
+        "eps": 8.176810264587402,
+        "edit_gen": 0.075,
+        "fires": 3,
+        "side_effects": 42
+      },
+      {
+        "eps": 8.41526985168457,
+        "edit_gen": 0.1,
+        "fires": 4,
+        "side_effects": 42
+      },
+      {
+        "eps": 8.853110313415527,
+        "edit_gen": 0.1,
+        "fires": 4,
+        "side_effects": 42
+      },
+      {
+        "eps": 9.15664005279541,
+        "edit_gen": 0.15,
+        "fires": 6,
+        "side_effects": 42
+      },
+      {
+        "eps": 10.619500160217285,
+        "edit_gen": 0.175,
+        "fires": 7,
+        "side_effects": 42
+      },
+      {
+        "eps": 11.38092041015625,
+        "edit_gen": 0.2,
+        "fires": 8,
+        "side_effects": 42
+      },
+      {
+        "eps": 11.57666015625,
+        "edit_gen": 0.225,
+        "fires": 9,
+        "side_effects": 42
+      },
+      {
+        "eps": 11.823410034179688,
+        "edit_gen": 0.225,
+        "fires": 10,
+        "side_effects": 42
+      },
+      {
+        "eps": 12.278169631958008,
+        "edit_gen": 0.225,
+        "fires": 11,
+        "side_effects": 42
+      },
+      {
+        "eps": 12.478919982910156,
+        "edit_gen": 0.225,
+        "fires": 11,
+        "side_effects": 42
+      },
+      {
+        "eps": 14.016160011291504,
+        "edit_gen": 0.25,
+        "fires": 13,
+        "side_effects": 42
+      },
+      {
+        "eps": 15.42255973815918,
+        "edit_gen": 0.25,
+        "fires": 13,
+        "side_effects": 42
+      },
+      {
+        "eps": 15.738340377807617,
+        "edit_gen": 0.25,
+        "fires": 15,
+        "side_effects": 42
+      },
+      {
+        "eps": 15.789739608764648,
+        "edit_gen": 0.25,
+        "fires": 16,
+        "side_effects": 42
+      },
+      {
+        "eps": 15.983519554138184,
+        "edit_gen": 0.25,
+        "fires": 17,
+        "side_effects": 42
+      },
+      {
+        "eps": 16.2031307220459,
+        "edit_gen": 0.25,
+        "fires": 17,
+        "side_effects": 42
+      },
+      {
+        "eps": 16.22327995300293,
+        "edit_gen": 0.25,
+        "fires": 18,
+        "side_effects": 42
+      },
+      {
+        "eps": 16.443359375,
+        "edit_gen": 0.275,
+        "fires": 19,
+        "side_effects": 42
+      },
+      {
+        "eps": 16.69477081298828,
+        "edit_gen": 0.275,
+        "fires": 20,
+        "side_effects": 42
+      },
+      {
+        "eps": 16.87126922607422,
+        "edit_gen": 0.275,
+        "fires": 21,
+        "side_effects": 42
+      },
+      {
+        "eps": 17.101329803466797,
+        "edit_gen": 0.275,
+        "fires": 22,
+        "side_effects": 42
+      },
+      {
+        "eps": 17.286029815673828,
+        "edit_gen": 0.275,
+        "fires": 24,
+        "side_effects": 42
+      },
+      {
+        "eps": 17.750879287719727,
+        "edit_gen": 0.3,
+        "fires": 25,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.09173011779785,
+        "edit_gen": 0.3,
+        "fires": 26,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.212209701538086,
+        "edit_gen": 0.3,
+        "fires": 26,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.590879440307617,
+        "edit_gen": 0.3,
+        "fires": 27,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.594839096069336,
+        "edit_gen": 0.3,
+        "fires": 29,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.606239318847656,
+        "edit_gen": 0.3,
+        "fires": 29,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.8458194732666,
+        "edit_gen": 0.325,
+        "fires": 31,
+        "side_effects": 42
+      },
+      {
+        "eps": 18.935029983520508,
+        "edit_gen": 0.325,
+        "fires": 31,
+        "side_effects": 42
+      },
+      {
+        "eps": 19.054540634155273,
+        "edit_gen": 0.325,
+        "fires": 33,
+        "side_effects": 42
+      },
+      {
+        "eps": 19.30282974243164,
+        "edit_gen": 0.325,
+        "fires": 33,
+        "side_effects": 42
+      },
+      {
+        "eps": 19.522619247436523,
+        "edit_gen": 0.325,
+        "fires": 35,
+        "side_effects": 42
+      },
+      {
+        "eps": 19.77964973449707,
+        "edit_gen": 0.325,
+        "fires": 35,
+        "side_effects": 42
+      },
+      {
+        "eps": 20.38884925842285,
+        "edit_gen": 0.35,
+        "fires": 37,
+        "side_effects": 42
+      },
+      {
+        "eps": 20.4683895111084,
+        "edit_gen": 0.35,
+        "fires": 37,
+        "side_effects": 42
+      },
+      {
+        "eps": 21.18825912475586,
+        "edit_gen": 0.35,
+        "fires": 38,
+        "side_effects": 42
+      },
+      {
+        "eps": 21.27050018310547,
+        "edit_gen": 0.35,
+        "fires": 40,
+        "side_effects": 42
+      }
+    ]
+  },
+  "grace_8key_cosine": {
+    "edit_gen_at_0_sideeffects": 0.0,
+    "eps_at_0_sideeffects": 0.023099999874830246,
+    "fires_at_0_sideeffects": 0,
+    "max_edit_gen_any_eps": 0.325,
+    "side_effects_at_max_edit_gen": 42,
+    "curve": [
+      {
+        "eps": 0.023099999874830246,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 0
+      },
+      {
+        "eps": 0.027799999341368675,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 1
+      },
+      {
+        "eps": 0.029839999973773956,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 2
+      },
+      {
+        "eps": 0.030559999868273735,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 3
+      },
+      {
+        "eps": 0.03158000111579895,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 5
+      },
+      {
+        "eps": 0.03255999833345413,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 6
+      },
+      {
+        "eps": 0.03322000056505203,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 6
+      },
+      {
+        "eps": 0.034060001373291016,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 7
+      },
+      {
+        "eps": 0.03742000088095665,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 9
+      },
+      {
+        "eps": 0.0405299998819828,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 10
+      },
+      {
+        "eps": 0.04165000095963478,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 11
+      },
+      {
+        "eps": 0.04207000136375427,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 11
+      },
+      {
+        "eps": 0.04293999820947647,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 13
+      },
+      {
+        "eps": 0.04309000074863434,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 13
+      },
+      {
+        "eps": 0.04332999885082245,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 15
+      },
+      {
+        "eps": 0.046480000019073486,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 15
+      },
+      {
+        "eps": 0.046539999544620514,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 16
+      },
+      {
+        "eps": 0.046890001744031906,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 18
+      },
+      {
+        "eps": 0.048009999096393585,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 19
+      },
+      {
+        "eps": 0.049240000545978546,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 20
+      },
+      {
+        "eps": 0.04969999939203262,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 21
+      },
+      {
+        "eps": 0.050209999084472656,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 22
+      },
+      {
+        "eps": 0.05110999941825867,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 22
+      },
+      {
+        "eps": 0.05147000029683113,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 24
+      },
+      {
+        "eps": 0.05299000069499016,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 24
+      },
+      {
+        "eps": 0.053690001368522644,
+        "edit_gen": 0.0,
+        "fires": 0,
+        "side_effects": 26
+      },
+      {
+        "eps": 0.056359998881816864,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 26
+      },
+      {
+        "eps": 0.056609999388456345,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 26
+      },
+      {
+        "eps": 0.05858999863266945,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 28
+      },
+      {
+        "eps": 0.058729998767375946,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 29
+      },
+      {
+        "eps": 0.06383000314235687,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 30
+      },
+      {
+        "eps": 0.06694000214338303,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 31
+      },
+      {
+        "eps": 0.06764999777078629,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 31
+      },
+      {
+        "eps": 0.07056000083684921,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 32
+      },
+      {
+        "eps": 0.07091999799013138,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 34
+      },
+      {
+        "eps": 0.0797400027513504,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 35
+      },
+      {
+        "eps": 0.08626999706029892,
+        "edit_gen": 0.025,
+        "fires": 1,
+        "side_effects": 35
+      },
+      {
+        "eps": 0.09132000058889389,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 36
+      },
+      {
+        "eps": 0.09777999669313431,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 36
+      },
+      {
+        "eps": 0.10249999910593033,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 38
+      },
+      {
+        "eps": 0.10255999863147736,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 38
+      },
+      {
+        "eps": 0.10700000077486038,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 39
+      },
+      {
+        "eps": 0.12268000096082687,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 41
+      },
+      {
+        "eps": 0.1296599954366684,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 41
+      },
+      {
+        "eps": 0.14429999887943268,
+        "edit_gen": 0.05,
+        "fires": 2,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.15376999974250793,
+        "edit_gen": 0.1,
+        "fires": 4,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.16730999946594238,
+        "edit_gen": 0.125,
+        "fires": 5,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.17816999554634094,
+        "edit_gen": 0.15,
+        "fires": 6,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.2400600016117096,
+        "edit_gen": 0.175,
+        "fires": 7,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.2833699882030487,
+        "edit_gen": 0.175,
+        "fires": 7,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.2857699990272522,
+        "edit_gen": 0.2,
+        "fires": 8,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.29093998670578003,
+        "edit_gen": 0.2,
+        "fires": 10,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.3119499981403351,
+        "edit_gen": 0.2,
+        "fires": 10,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.32600998878479004,
+        "edit_gen": 0.2,
+        "fires": 12,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.4060699939727783,
+        "edit_gen": 0.225,
+        "fires": 13,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.488209992647171,
+        "edit_gen": 0.225,
+        "fires": 13,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.5292500257492065,
+        "edit_gen": 0.225,
+        "fires": 14,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.5406699776649475,
+        "edit_gen": 0.225,
+        "fires": 16,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.5630800127983093,
+        "edit_gen": 0.225,
+        "fires": 17,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.5748800039291382,
+        "edit_gen": 0.225,
+        "fires": 17,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.5776799917221069,
+        "edit_gen": 0.25,
+        "fires": 19,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.5928999781608582,
+        "edit_gen": 0.25,
+        "fires": 19,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.6013000011444092,
+        "edit_gen": 0.25,
+        "fires": 20,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.614579975605011,
+        "edit_gen": 0.25,
+        "fires": 21,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.6223499774932861,
+        "edit_gen": 0.25,
+        "fires": 23,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.6413599848747253,
+        "edit_gen": 0.25,
+        "fires": 23,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.6559100151062012,
+        "edit_gen": 0.275,
+        "fires": 25,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7159600257873535,
+        "edit_gen": 0.275,
+        "fires": 25,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7233800292015076,
+        "edit_gen": 0.275,
+        "fires": 27,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7532100081443787,
+        "edit_gen": 0.275,
+        "fires": 27,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7532699704170227,
+        "edit_gen": 0.275,
+        "fires": 28,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7534300088882446,
+        "edit_gen": 0.275,
+        "fires": 29,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7709599733352661,
+        "edit_gen": 0.3,
+        "fires": 31,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7777199745178223,
+        "edit_gen": 0.3,
+        "fires": 32,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.7876899838447571,
+        "edit_gen": 0.3,
+        "fires": 33,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.8016200065612793,
+        "edit_gen": 0.3,
+        "fires": 34,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.8218500018119812,
+        "edit_gen": 0.3,
+        "fires": 34,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.8446000218391418,
+        "edit_gen": 0.3,
+        "fires": 35,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.8906499743461609,
+        "edit_gen": 0.325,
+        "fires": 37,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.8985000252723694,
+        "edit_gen": 0.325,
+        "fires": 37,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.9508699774742126,
+        "edit_gen": 0.325,
+        "fires": 38,
+        "side_effects": 42
+      },
+      {
+        "eps": 0.9619899988174438,
+        "edit_gen": 0.325,
+        "fires": 39,
+        "side_effects": 42
+      }
+    ]
+  },
+  "yaz_semantic_v2_frozen_editgen": 0.675,
+  "note": "Yaz (Engram-routed supervised atom) = 0.675 first-byte edit-gen at 0 side-effects on the same 40 held-out probes. Compare to GRACE rows above."
+}

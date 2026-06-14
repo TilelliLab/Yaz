@@ -1,0 +1,121 @@
+{
+  "n_edits": 40,
+  "n_holdout": 10,
+  "eval_ks": [
+    1,
+    2,
+    3,
+    5,
+    8,
+    12,
+    18,
+    25,
+    32,
+    40
+  ],
+  "seed": 2026,
+  "static_router": {
+    "misroute_heldout_rate": 0.0,
+    "n_heldout_probes": 200,
+    "n_route_collisions": 0
+  },
+  "curve": [
+    {
+      "k": 1,
+      "retained_indist": 1.0,
+      "retained_heldout": 0.6,
+      "locality_collateral": 0,
+      "locality_domain": 10,
+      "bpc": 3.472157597155274,
+      "bpc_delta_pct": 0.0
+    },
+    {
+      "k": 2,
+      "retained_indist": 1.0,
+      "retained_heldout": 0.7,
+      "locality_collateral": 0,
+      "locality_domain": 10,
+      "bpc": 3.472157597155274,
+      "bpc_delta_pct": 0.0
+    },
+    {
+      "k": 3,
+      "retained_indist": 1.0,
+      "retained_heldout": 0.8,
+      "locality_collateral": 0,
+      "locality_domain": 10,
+      "bpc": 3.472157597155274,
+      "bpc_delta_pct": 0.0
+    },
+    {
+      "k": 5,
+      "retained_indist": 1.0,
+      "retained_heldout": 0.88,
+      "locality_collateral": 0,
+      "locality_domain": 10,
+      "bpc": 3.472157597155274,
+      "bpc_delta_pct": 0.0
+    },
+    {
+      "k": 8,
+      "retained_indist": 1.0,
+      "retained_heldout": 0.8,
+      "locality_collateral": 0,
+      "locality_domain": 10,
+      "bpc": 3.472157597155274,
+      "bpc_delta_pct": 0.0
+    },
+    {
+      "k": 12,
+      "retained_indist": 1.0,
+      "retained_heldout": 0.8,
+      "locality_collateral": 0,
+      "locality_domain": 10,
+      "bpc": 3.472157597155274,
+      "bpc_delta_pct": 0.0
+    },
+    {
+      "k": 18,
+      "retained_indist": 1.0,
+      "retained_heldout": 0.7777777777777778,
+      "locality_collateral": 0,
+      "locality_domain": 10,
+      "bpc": 3.472157597155274,
+      "bpc_delta_pct": 0.0
+    },
+    {
+      "k": 25,
+      "retained_indist": 1.0,
+      "retained_heldout": 0.72,
+      "locality_collateral": 0,
+      "locality_domain": 10,
+      "bpc": 3.472157597155274,
+      "bpc_delta_pct": 0.0
+    },
+    {
+      "k": 32,
+      "retained_indist": 1.0,
+      "retained_heldout": 0.71875,
+      "locality_collateral": 0,
+      "locality_domain": 10,
+      "bpc": 3.4721691685008085,
+      "bpc_delta_pct": 0.0003332609540570627
+    },
+    {
+      "k": 40,
+      "retained_indist": 1.0,
+      "retained_heldout": 0.705,
+      "locality_collateral": 0,
+      "locality_domain": 10,
+      "bpc": 3.472251014603373,
+      "bpc_delta_pct": 0.002690472580387956
+    }
+  ],
+  "verdict": {
+    "retained_indist_flat": true,
+    "retained_heldout_flat": false,
+    "max_collateral": 0,
+    "max_bpc_delta_pct": 0.002690472580387956,
+    "router_holds": true
+  }
+}

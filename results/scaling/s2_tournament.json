@@ -1,0 +1,107 @@
+{
+  "n_edits": 40,
+  "n_holdout": 10,
+  "seed": 2026,
+  "curve": [
+    {
+      "k": 1,
+      "eps": 5.72642607824707,
+      "yaz_retained_heldout": 0.6,
+      "grace_retained_heldout": 0.0,
+      "rome_retained_heldout": 0.2,
+      "yaz_collateral_holdout": 0,
+      "rome_bpc_delta_pct": 0.00444618882619598
+    },
+    {
+      "k": 2,
+      "eps": 5.72642607824707,
+      "yaz_retained_heldout": 0.7,
+      "grace_retained_heldout": 0.0,
+      "rome_retained_heldout": 0.1,
+      "yaz_collateral_holdout": 0,
+      "rome_bpc_delta_pct": 0.05831888889253281
+    },
+    {
+      "k": 3,
+      "eps": 3.456624938415527,
+      "yaz_retained_heldout": 0.8,
+      "grace_retained_heldout": 0.0,
+      "rome_retained_heldout": 0.06666666666666667,
+      "yaz_collateral_holdout": 0,
+      "rome_bpc_delta_pct": 0.0012113730868448195
+    },
+    {
+      "k": 5,
+      "eps": 3.456624938415527,
+      "yaz_retained_heldout": 0.88,
+      "grace_retained_heldout": 0.0,
+      "rome_retained_heldout": 0.2,
+      "yaz_collateral_holdout": 1,
+      "rome_bpc_delta_pct": 0.286053473081562
+    },
+    {
+      "k": 8,
+      "eps": 3.456624938415527,
+      "yaz_retained_heldout": 0.8,
+      "grace_retained_heldout": 0.0,
+      "rome_retained_heldout": 0.075,
+      "yaz_collateral_holdout": 1,
+      "rome_bpc_delta_pct": 0.331976426136144
+    },
+    {
+      "k": 12,
+      "eps": 3.059623195098877,
+      "yaz_retained_heldout": 0.8,
+      "grace_retained_heldout": 0.0,
+      "rome_retained_heldout": 0.11666666666666667,
+      "yaz_collateral_holdout": 1,
+      "rome_bpc_delta_pct": 0.46657676613750393
+    },
+    {
+      "k": 18,
+      "eps": 3.059623195098877,
+      "yaz_retained_heldout": 0.7777777777777778,
+      "grace_retained_heldout": 0.0,
+      "rome_retained_heldout": 0.15555555555555556,
+      "yaz_collateral_holdout": 1,
+      "rome_bpc_delta_pct": 1.13066322760327
+    },
+    {
+      "k": 25,
+      "eps": 3.059623195098877,
+      "yaz_retained_heldout": 0.72,
+      "grace_retained_heldout": 0.0,
+      "rome_retained_heldout": 0.104,
+      "yaz_collateral_holdout": 1,
+      "rome_bpc_delta_pct": 7.659048460115436
+    },
+    {
+      "k": 32,
+      "eps": 3.059623195098877,
+      "yaz_retained_heldout": 0.71875,
+      "grace_retained_heldout": 0.0,
+      "rome_retained_heldout": 0.08125,
+      "yaz_collateral_holdout": 2,
+      "rome_bpc_delta_pct": 8.675631535350183
+    },
+    {
+      "k": 40,
+      "eps": 3.059623195098877,
+      "yaz_retained_heldout": 0.705,
+      "grace_retained_heldout": 0.0,
+      "rome_retained_heldout": 0.12,
+      "yaz_collateral_holdout": 2,
+      "rome_bpc_delta_pct": 13.048646975259068
+    }
+  ],
+  "final": {
+    "k": 40,
+    "eps": 3.059623195098877,
+    "yaz_retained_heldout": 0.705,
+    "grace_retained_heldout": 0.0,
+    "rome_retained_heldout": 0.12,
+    "yaz_collateral_holdout": 2,
+    "rome_bpc_delta_pct": 13.048646975259068
+  },
+  "matched_locality": "GRACE eps set to 0 holdout-collateral each step"
+}

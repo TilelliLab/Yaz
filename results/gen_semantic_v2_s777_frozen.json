@@ -1,0 +1,334 @@
+{
+  "name": "semantic_v2_s777",
+  "router": "frozen",
+  "n_phrasings": 8,
+  "aux_weight": 3.0,
+  "full_span_sup": true,
+  "supp_masked": true,
+  "supp_beta": 0.25,
+  "params": 807680,
+  "steps": 3000,
+  "final_dec_spec": 0.28429304480552675,
+  "wall_sec": 4179.0,
+  "reliability_indist": 1.0,
+  "base_generalization_heldout": 0.836,
+  "eval": {
+    "correct": 50,
+    "n": 50,
+    "first_byte_accuracy": 1.0,
+    "atoms_only_first_byte_accuracy": 1.0,
+    "supervised_target_atom_hit_rate": 1.0,
+    "n_collision_atoms": 0,
+    "tinystories_bpc": 3.5531066205735815
+  },
+  "crud": {
+    "edits": [
+      {
+        "edit": "France<-Peru",
+        "rank": 1,
+        "side_effects": 0,
+        "n_others": 49,
+        "new_capital": "Lima",
+        "trail_bytes": 2,
+        "target_after": "Lismrusi",
+        "top5": [
+          [
+            "L",
+            17.707826614379883
+          ],
+          [
+            "R",
+            13.23625373840332
+          ],
+          [
+            "H",
+            12.843225479125977
+          ],
+          [
+            "B",
+            12.189764022827148
+          ],
+          [
+            "S",
+            12.03068733215332
+          ]
+        ],
+        "bpc_delta_pct": 0.0,
+        "verdict": "ALIVE",
+        "gen_heldout_hits": 5,
+        "gen_heldout_n": 5,
+        "gen_rate": 1.0
+      },
+      {
+        "edit": "Japan<-Germany",
+        "rank": 1,
+        "side_effects": 0,
+        "n_others": 49,
+        "new_capital": "Berlin",
+        "trail_bytes": 2,
+        "target_after": "Beinarin",
+        "top5": [
+          [
+            "B",
+            20.882030487060547
+          ],
+          [
+            "T",
+            12.509549140930176
+          ],
+          [
+            "A",
+            12.464027404785156
+          ],
+          [
+            "C",
+            12.098174095153809
+          ],
+          [
+            "S",
+            11.569986343383789
+          ]
+        ],
+        "bpc_delta_pct": 0.0,
+        "verdict": "ALIVE",
+        "gen_heldout_hits": 5,
+        "gen_heldout_n": 5,
+        "gen_rate": 1.0
+      },
+      {
+        "edit": "Egypt<-Iran",
+        "rank": 1,
+        "side_effects": 0,
+        "n_others": 49,
+        "new_capital": "Tehran",
+        "trail_bytes": 1,
+        "target_after": "Tonkhehr",
+        "top5": [
+          [
+            "T",
+            21.12389373779297
+          ],
+          [
+            "A",
+            13.930133819580078
+          ],
+          [
+            "C",
+            13.597294807434082
+          ],
+          [
+            "B",
+            11.61581039428711
+          ],
+          [
+            "J",
+            11.345051765441895
+          ]
+        ],
+        "bpc_delta_pct": 0.0,
+        "verdict": "ALIVE",
+        "gen_heldout_hits": 5,
+        "gen_heldout_n": 5,
+        "gen_rate": 1.0
+      },
+      {
+        "edit": "Germany<-Spain",
+        "rank": 1,
+        "side_effects": 0,
+        "n_others": 49,
+        "new_capital": "Madrid",
+        "trail_bytes": 1,
+        "target_after": "Mossitad",
+        "top5": [
+          [
+            "M",
+            19.19219398498535
+          ],
+          [
+            "B",
+            15.174980163574219
+          ],
+          [
+            "R",
+            12.700312614440918
+          ],
+          [
+            "C",
+            10.334586143493652
+          ],
+          [
+            "J",
+            10.149593353271484
+          ]
+        ],
+        "bpc_delta_pct": 0.0,
+        "verdict": "ALIVE",
+        "gen_heldout_hits": 4,
+        "gen_heldout_n": 5,
+        "gen_rate": 0.8
+      },
+      {
+        "edit": "Brazil<-Bulgaria",
+        "rank": 1,
+        "side_effects": 0,
+        "n_others": 49,
+        "new_capital": "Sofia",
+        "trail_bytes": 5,
+        "target_after": "Sofiadlm",
+        "top5": [
+          [
+            "S",
+            20.871097564697266
+          ],
+          [
+            "B",
+            16.24748420715332
+          ],
+          [
+            "R",
+            11.965727806091309
+          ],
+          [
+            "M",
+            11.67772102355957
+          ],
+          [
+            "H",
+            10.555096626281738
+          ]
+        ],
+        "bpc_delta_pct": 0.0,
+        "verdict": "ALIVE",
+        "gen_heldout_hits": 4,
+        "gen_heldout_n": 5,
+        "gen_rate": 0.8
+      },
+      {
+        "edit": "Italy<-Norway",
+        "rank": 1,
+        "side_effects": 0,
+        "n_others": 49,
+        "new_capital": "Oslo",
+        "trail_bytes": 4,
+        "target_after": "Oslosow.",
+        "top5": [
+          [
+            "O",
+            19.103818893432617
+          ],
+          [
+            "A",
+            12.95079231262207
+          ],
+          [
+            "B",
+            12.2399263381958
+          ],
+          [
+            "D",
+            11.667792320251465
+          ],
+          [
+            "S",
+            11.586690902709961
+          ]
+        ],
+        "bpc_delta_pct": 0.0,
+        "verdict": "ALIVE",
+        "gen_heldout_hits": 4,
+        "gen_heldout_n": 5,
+        "gen_rate": 0.8
+      },
+      {
+        "edit": "Poland<-Greece",
+        "rank": 1,
+        "side_effects": 0,
+        "n_others": 49,
+        "new_capital": "Athens",
+        "trail_bytes": 1,
+        "target_after": "Amarsisa",
+        "top5": [
+          [
+            "A",
+            19.80042839050293
+          ],
+          [
+            "B",
+            11.916115760803223
+          ],
+          [
+            "R",
+            11.120131492614746
+          ],
+          [
+            "P",
+            10.734159469604492
+          ],
+          [
+            "J",
+            10.267212867736816
+          ]
+        ],
+        "bpc_delta_pct": 0.0,
+        "verdict": "ALIVE",
+        "gen_heldout_hits": 2,
+        "gen_heldout_n": 5,
+        "gen_rate": 0.4
+      },
+      {
+        "edit": "Canada<-Cuba",
+        "rank": 1,
+        "side_effects": 0,
+        "n_others": 49,
+        "new_capital": "Havana",
+        "trail_bytes": 2,
+        "target_after": "Hanavina",
+        "top5": [
+          [
+            "H",
+            20.573163986206055
+          ],
+          [
+            "B",
+            12.49319839477539
+          ],
+          [
+            "R",
+            12.4473876953125
+          ],
+          [
+            "S",
+            12.32125186920166
+          ],
+          [
+            "A",
+            12.179635047912598
+          ]
+        ],
+        "bpc_delta_pct": 0.0,
+        "verdict": "ALIVE",
+        "gen_heldout_hits": 5,
+        "gen_heldout_n": 5,
+        "gen_rate": 1.0
+      }
+    ],
+    "deletes": [],
+    "individual_verdicts": [
+      "ALIVE",
+      "ALIVE",
+      "ALIVE",
+      "ALIVE",
+      "ALIVE",
+      "ALIVE",
+      "ALIVE",
+      "ALIVE"
+    ],
+    "n_alive": 8,
+    "n_partial_or_better": 8,
+    "aggregate_verdict": "ALIVE",
+    "max_trail": 5,
+    "gen_heldout_hits": 34,
+    "gen_heldout_n": 40,
+    "gen_heldout_rate": 0.85
+  }
+}
