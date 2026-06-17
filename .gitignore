@@ -18,3 +18,11 @@ checkpoints/*smoke*.pt
 
 # scratch run logs (embed local paths in tool warnings)
 *.out
+
+# derived Hugging Face upload bundle (built from the tracked tree; not part of the code repo)
+hf_export/
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.log
+paper/*.out

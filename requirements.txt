@@ -1,0 +1,6 @@
+# Yaz runtime dependencies. Tested on Python 3.11, CPU-only.
+# The semantic router uses sentence-transformers (all-MiniLM-L6-v2, downloaded on first
+# use); no internal/private packages are required to reproduce any result.
+torch>=2.0
+numpy>=1.24
+sentence-transformers>=2.2

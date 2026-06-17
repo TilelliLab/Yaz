@@ -26,15 +26,51 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-sys.path.insert(0, os.environ.get("YAZ_EMBEDDER_PATH", ""))
-from engram import Embedder  # noqa: E402
+_ST_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+
+
+class _StEmbedder:
+    """Self-contained frozen embedder over sentence-transformers all-MiniLM-L6-v2.
+
+    This is what the optional internal `engram` package wraps; using it directly means
+    anyone can reproduce Yaz's routing/abstention numbers with `pip install
+    sentence-transformers` and no local paths. Embeddings are L2-normalized, matching
+    the original engram Embedder exactly (same model, normalize_embeddings=True).
+    """
+
+    def __init__(self, model_name: str = _ST_MODEL):
+        from sentence_transformers import SentenceTransformer  # lazy import
+        self._st = SentenceTransformer(model_name)
+        try:
+            self.dim = int(self._st.get_embedding_dimension())          # sentence-transformers >=5
+        except AttributeError:
+            self.dim = int(self._st.get_sentence_embedding_dimension())  # older API
+        self.mode = "st"
+
+    def encode_one(self, text: str) -> np.ndarray:
+        return self._st.encode([text], convert_to_numpy=True,
+                               normalize_embeddings=True).astype(np.float32)[0]
+
+
+def _make_embedder(prefer="auto"):
+    """Prefer the internal Engram embedder if YAZ_EMBEDDER_PATH points at one; otherwise
+    fall back to the bundled sentence-transformers embedder (identical 384-d MiniLM)."""
+    ep = os.environ.get("YAZ_EMBEDDER_PATH", "")
+    if ep:
+        sys.path.insert(0, ep)
+        try:
+            from engram import Embedder  # noqa: E402
+            return Embedder(prefer=prefer)
+        except Exception:
+            pass  # fall through to the public sentence-transformers embedder
+    return _StEmbedder()
 
 
 class SemanticRouter:
     def __init__(self, country_order, train_templates, prefer="auto"):
         self.country_order = list(country_order)          # atom id == index here
         self.train_templates = list(train_templates)
-        self.emb = Embedder(prefer=prefer)
+        self.emb = _make_embedder(prefer)
         assert self.emb.mode == "st", f"need semantic embeddings, got mode={self.emb.mode}"
         self.dim = int(self.emb.dim)
         self._cache: dict[str, np.ndarray] = {}

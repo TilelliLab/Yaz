@@ -24,19 +24,21 @@ routed atom contributes the answer. Because facts are disjoint columns:
 ## Quick start
 
 ```bash
-# 1) deps
-pip install torch numpy sentence-transformers
+# 1) deps (CPU-only; sentence-transformers pulls all-MiniLM-L6-v2 on first run)
+pip install -r requirements.txt
 
-# 2) point the model at its dependencies (a frozen sentence-embedder + a text corpus for bpc)
-export YAZ_EMBEDDER_PATH=/path/to/embedder      # a package exposing Embedder(prefer=...).encode_one()
-export YAZ_TINYSTORIES_DIR=/path/to/tinystories # TinyStories-train.txt / -valid.txt (for bpc only)
-
-# 3) try the demo (routes a prompt, answers, or abstains; edits/deletes are live)
+# 2) try the demo (routes a prompt, answers, or abstains; edits/deletes are live)
 python demo.py --demo
 python demo.py --prompt "the country of the Eiffel Tower, its capital is "
 python demo.py --prompt "The capital of France is " --edit France=Lima
 python demo.py --prompt "best pizza topping?"        # -> ABSTAIN (out of scope)
 ```
+
+The router uses `sentence-transformers/all-MiniLM-L6-v2` out of the box — **no local paths or
+private packages required**. Two optional environment variables exist for advanced use:
+`YAZ_EMBEDDER_PATH` (point at an alternative `Embedder` package; the bundled MiniLM is used if unset)
+and `YAZ_TINYSTORIES_DIR` (a TinyStories corpus, only needed for the optional bits-per-character
+side-checks).
 
 A trained checkpoint (`checkpoints/yaz_gen_semantic_v2.pt`) ships with the repo; retrain with
 `python scripts/train_gen.py configs/semantic_v2.json`.

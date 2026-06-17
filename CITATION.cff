@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use Yaz, please cite it as below."
+title: "Yaz: an editable, auditable tiny knowledge model with routing-confidence abstention"
+abstract: >-
+  Yaz is a sub-1M-parameter, byte-level language model that stores each fact in its own
+  addressable decoder column (an "atom"), routes prompts to facts by meaning via a frozen
+  sentence embedding, supports create/read/update/delete edits with provable per-edit
+  locality, and abstains when its routing confidence is low. A research prototype and an
+  honest step in the model-editing lineage (ROME/MEMIT, GRACE, SERAC, PENME) — not a moat.
+authors:
+  - name: "Tilelli LAB"
+    email: hello@tilelli.tech
+    city: Marrakech
+version: 0.0.1
+date-released: 2026-06-17
+license: MIT
+keywords:
+  - knowledge editing
+  - model editing
+  - selective prediction
+  - abstention
+  - byte-level language model
+  - interpretability
+repository-code: "https://github.com/TilelliLab/yaz"
+url: "https://github.com/TilelliLab/yaz"
