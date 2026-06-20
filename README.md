@@ -1,8 +1,17 @@
-# Yaz
+# Yaz — a tiny LLM you can edit one fact at a time, and that abstains when unsure
 
-A sub-1M-parameter, byte-level language model whose individual facts you can **create, read,
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](requirements.txt)
+[![Model on HF](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-orange)](https://huggingface.co/TilelliLab/Yaz)
+[![CPU-only](https://img.shields.io/badge/CPU--only-offline-green.svg)](#quick-start)
+![Params](https://img.shields.io/badge/params-807K-lightgrey.svg)
+
+A sub-1M-parameter (≈807K), byte-level language model whose individual facts you can **create, read,
 update, and delete** one at a time — with provable per-edit locality — and that **abstains** when
 it isn't confident which fact you mean, instead of guessing. Runs on CPU, offline.
+
+> 📦 **Model & weights:** [huggingface.co/TilelliLab/Yaz](https://huggingface.co/TilelliLab/Yaz)
+> &nbsp;·&nbsp; 📄 **Technical report:** [`paper/`](paper) &nbsp;·&nbsp; 🆚 **How it compares:** [vs ROME / MEMIT / GRACE / SERAC / PENME](#how-it-compares)
 
 > **Status: research prototype.** Everything here is small-scale and honestly scoped (see
 > [Caveats](#caveats)). It is a clean, reproducible demonstration — not a production system and not a
@@ -67,6 +76,30 @@ All runs are deterministic (seed 2026), CPU. Results write to `results/`.
 | No sequential-edit collapse | retention flat 1.000 over 40 edits |
 | Paraphrase-robust routing | held-out reach 0.696 (vs 0.216 surface-routing) |
 | Abstain when unsure | near-oracle: risk-coverage AURC 0.004 (oracle 0.003) |
+
+## How it compares
+
+Knowledge-editing methods fall into three families: **edit the base weights** (ROME, MEMIT, MEND),
+**add a side memory / adapter** (SERAC, GRACE, WISE, PENME, MELO), or **edit in context** (IKE). Yaz is
+in the side-memory family, but it's unusual in two honest ways: the edit is a **structural** column swap
+(so locality is by construction, not just empirical), and it **abstains** on low routing confidence
+instead of falling back to the base model.
+
+| Method | Edit lives in | Retrain-free edit | Locality | Abstains when unsure? | Model-agnostic |
+|---|---|---|---|---|---|
+| **ROME / MEMIT** | base FFN weights | yes (closed-form) | empirical; degrades under many sequential edits | no | architecture-specific |
+| **MEND** | base weights via hypernetwork | needs a trained hypernetwork | empirical | no | per-model training |
+| **SERAC** | external memory + classifier | yes | scoped by a learned classifier | no (routes to base) | wrapper |
+| **GRACE / WISE** | added side memory | yes | strong, but activation-keyed | no (routes to base) | layer/wrapper |
+| **PENME** | embedding-keyed adapter memory | yes | scoped by embedding | no | wrapper |
+| **Yaz** | its own decoder columns (*atoms*) | yes | **structural** (disjoint columns) | **yes** (routing margin) | no (intrinsic to Yaz) |
+
+**Honest positioning.** Yaz is **not** state-of-the-art and **not** larger-scale than these — it's a
+≈807K-param prototype on 50 facts. Its only genuine differentiators are (1) being **sub-1M params /
+CPU**, and (2) **abstention-as-refusal** (no published editor declines on low routing confidence; they
+route to the base model). Every individual mechanism here is copyable — Yaz is a clean recombination,
+not a moat. A fuller, cited comparison (incl. ROME/MEMIT selectivity vs Yaz at 5/50/200 facts) is in
+[`COMPARISON.md`](COMPARISON.md).
 
 ## Caveats
 
