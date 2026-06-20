@@ -26,7 +26,9 @@ import numpy as np
 import torch
 
 ROOT = Path(__file__).resolve().parent
-sys.path.insert(0, os.environ.get("YAZ_EMBEDDER_PATH", ""))
+_emb_path = os.environ.get("YAZ_EMBEDDER_PATH", "")
+if _emb_path:                       # only add a real path (avoid inserting "" == cwd)
+    sys.path.insert(0, _emb_path)
 sys.path.insert(0, str(ROOT))
 from yaz import YazConfig, YazLM
 from yaz.semantic_router import SemanticRouter

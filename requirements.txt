@@ -1,6 +1,12 @@
 # Yaz runtime dependencies. Tested on Python 3.11, CPU-only.
 # The semantic router uses sentence-transformers (all-MiniLM-L6-v2, downloaded on first
 # use); no internal/private packages are required to reproduce any result.
+#
+# CPU-ONLY INSTALL (recommended — avoids pulling the multi-GB CUDA stack):
+#   pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
+# On Linux a plain `pip install torch` resolves to a CUDA build (hundreds of MB + GBs of
+# nvidia-* wheels); the line above fetches the small CPU wheel instead. Yaz needs no GPU.
 torch>=2.0
 numpy>=1.24
 sentence-transformers>=2.2
+safetensors>=0.4        # used by the Hugging Face load path (load_yaz.py)

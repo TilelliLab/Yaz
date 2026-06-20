@@ -24,8 +24,11 @@ routed atom contributes the answer. Because facts are disjoint columns:
 ## Quick start
 
 ```bash
-# 1) deps (CPU-only; sentence-transformers pulls all-MiniLM-L6-v2 on first run)
-pip install -r requirements.txt
+# 1) deps (CPU-only). Use the CPU wheel index so pip doesn't pull the multi-GB CUDA stack:
+pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
+# (plain `pip install -r requirements.txt` also works but may download a CUDA torch build.)
+# On first run, sentence-transformers downloads all-MiniLM-L6-v2 (~90 MB) once; fully
+# offline thereafter.
 
 # 2) try the demo (routes a prompt, answers, or abstains; edits/deletes are live)
 python demo.py --demo
